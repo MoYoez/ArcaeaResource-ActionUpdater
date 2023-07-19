@@ -1,0 +1,4538 @@
+{
+  "unlocks": [
+    {
+      "songId": "lostcivilization",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "snowwhite",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "lostcivilization",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "snowwhite",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 280
+        }
+      ]
+    },
+    {
+      "songId": "rise",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 20
+        }
+      ]
+    },
+    {
+      "songId": "rise",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 160
+        }
+      ]
+    },
+    {
+      "songId": "snowwhite",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "rise",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 40
+        }
+      ]
+    },
+    {
+      "songId": "snowwhite",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "rise",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 200
+        }
+      ]
+    },
+    {
+      "songId": "dandelion",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 40
+        }
+      ]
+    },
+    {
+      "songId": "dandelion",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 200
+        }
+      ]
+    },
+    {
+      "songId": "onelastdrive",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 40
+        }
+      ]
+    },
+    {
+      "songId": "onelastdrive",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 200
+        }
+      ]
+    },
+    {
+      "songId": "infinityheaven",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 40
+        }
+      ]
+    },
+    {
+      "songId": "infinityheaven",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 160
+        }
+      ]
+    },
+    {
+      "songId": "partyvinyl",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    },
+    {
+      "songId": "flyburg",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    },
+    {
+      "songId": "nirvluce",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "partyvinyl",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "flyburg",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "partyvinyl",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "paradise",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "flashback",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    },
+    {
+      "songId": "flyburg",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "paradise",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "flashback",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    },
+    {
+      "songId": "nirvluce",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "partyvinyl",
+          "song_difficulty": 2,
+          "grade": 3
+        },
+        {
+          "type": 1,
+          "song_id": "flyburg",
+          "song_difficulty": 2,
+          "grade": 3
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "chronostasis",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "infinityheaven",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "chronostasis",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "infinityheaven",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 280
+        }
+      ]
+    },
+    {
+      "songId": "clotho",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 40
+        }
+      ]
+    },
+    {
+      "songId": "clotho",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 160
+        }
+      ]
+    },
+    {
+      "songId": "oracle",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    },
+    {
+      "songId": "oracle",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "moonlightofsandcastle",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "reconstruction",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "evoltex",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    },
+    {
+      "songId": "aterlbus",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "oracle",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "aterlbus",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "oracle",
+          "song_difficulty": 2,
+          "grade": 3
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "genesis",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    },
+    {
+      "songId": "genesis",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "blossoms",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "romancewars",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "moonheart",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    },
+    {
+      "songId": "lethaeus",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "genesis",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "lethaeus",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "genesis",
+          "song_difficulty": 2,
+          "grade": 3
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "redandblue",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "qualia",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "redandblue",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "qualia",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 280
+        }
+      ]
+    },
+    {
+      "songId": "dreaminattraction",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "goodtek",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "dreaminattraction",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "goodtek",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 280
+        }
+      ]
+    },
+    {
+      "songId": "anokumene",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 60
+        }
+      ]
+    },
+    {
+      "songId": "anokumene",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 200
+        }
+      ]
+    },
+    {
+      "songId": "lucifer",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 40
+        }
+      ]
+    },
+    {
+      "songId": "lucifer",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 200
+        }
+      ]
+    },
+    {
+      "songId": "shadesoflight",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 60
+        }
+      ]
+    },
+    {
+      "songId": "shadesoflight",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 200
+        }
+      ]
+    },
+    {
+      "songId": "babaroque",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 60
+        }
+      ]
+    },
+    {
+      "songId": "babaroque",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 200
+        }
+      ]
+    },
+    {
+      "songId": "goodtek",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "harutopia",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 60
+        }
+      ]
+    },
+    {
+      "songId": "goodtek",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "harutopia",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 280
+        }
+      ]
+    },
+    {
+      "songId": "qualia",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "rabbitintheblackroom",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "qualia",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "rabbitintheblackroom",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 280
+        }
+      ]
+    },
+    {
+      "songId": "kanagawa",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 40
+        }
+      ]
+    },
+    {
+      "songId": "kanagawa",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 280
+        }
+      ]
+    },
+    {
+      "songId": "ignotus",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 60
+        }
+      ]
+    },
+    {
+      "songId": "ignotus",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 280
+        }
+      ]
+    },
+    {
+      "songId": "harutopia",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 20
+        }
+      ]
+    },
+    {
+      "songId": "harutopia",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 200
+        }
+      ]
+    },
+    {
+      "songId": "rabbitintheblackroom",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 40
+        }
+      ]
+    },
+    {
+      "songId": "rabbitintheblackroom",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 200
+        }
+      ]
+    },
+    {
+      "songId": "essenceoftwilight",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    },
+    {
+      "songId": "essenceoftwilight",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "viyella",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "hearditsaid",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "memoryfactory",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "relentless",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "lumia",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    },
+    {
+      "songId": "pragmatism",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "essenceoftwilight",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "pragmatism",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "essenceoftwilight",
+          "song_difficulty": 2,
+          "grade": 3
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "sheriruth",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "essenceoftwilight",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "sheriruth",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "essenceoftwilight",
+          "song_difficulty": 2,
+          "grade": 3
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "grievouslady",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "grievouslady",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 101,
+          "min": 7,
+          "max": 23
+        }
+      ]
+    },
+    {
+      "songId": "grievouslady",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 101,
+          "min": 10,
+          "max": 35
+        }
+      ]
+    },
+    {
+      "songId": "conflict",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    },
+    {
+      "songId": "conflict",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "iconoclast",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "soundwitch",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "trappola",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    },
+    {
+      "songId": "axiumcrisis",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "conflict",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "axiumcrisis",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "conflict",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "reinvent",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 60
+        }
+      ]
+    },
+    {
+      "songId": "reinvent",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 200
+        }
+      ]
+    },
+    {
+      "songId": "syro",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 60
+        }
+      ]
+    },
+    {
+      "songId": "syro",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 280
+        }
+      ]
+    },
+    {
+      "songId": "quon",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    },
+    {
+      "songId": "quon",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "dreamgoeson",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "journey",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "specta",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    },
+    {
+      "songId": "cyanine",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "quon",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "cyanine",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "quon",
+          "song_difficulty": 2,
+          "grade": 3
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "blaster",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "syro",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "blaster",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "syro",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 280
+        }
+      ]
+    },
+    {
+      "songId": "memoryforest",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    },
+    {
+      "songId": "memoryforest",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "silentrush",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "nexttoyou",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "strongholds",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    },
+    {
+      "songId": "singularity",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "memoryforest",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "singularity",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "memoryforest",
+          "song_difficulty": 2,
+          "grade": 3
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "guardina",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "aterlbus",
+          "song_difficulty": 0,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 20
+        }
+      ]
+    },
+    {
+      "songId": "guardina",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "aterlbus",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "guardina",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "aterlbus",
+          "song_difficulty": 2,
+          "grade": 3
+        },
+        {
+          "type": 0,
+          "credit": 360
+        }
+      ]
+    },
+    {
+      "songId": "cyberneciacatharsis",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "blaster",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "cyberneciacatharsis",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "blaster",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 280
+        }
+      ]
+    },
+    {
+      "songId": "suomi",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 40
+        }
+      ]
+    },
+    {
+      "songId": "suomi",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 160
+        }
+      ]
+    },
+    {
+      "songId": "bookmaker",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 60
+        }
+      ]
+    },
+    {
+      "songId": "bookmaker",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 200
+        }
+      ]
+    },
+    {
+      "songId": "darakunosono",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "bookmaker",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "darakunosono",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "bookmaker",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 280
+        }
+      ]
+    },
+    {
+      "songId": "halcyon",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    },
+    {
+      "songId": "halcyon",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "mazenine",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "themessage",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "sulfur",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    },
+    {
+      "songId": "etherstrike",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "halcyon",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "etherstrike",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "halcyon",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "fractureray",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "fractureray",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 101,
+          "min": 7,
+          "max": 23
+        }
+      ]
+    },
+    {
+      "songId": "fractureray",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 101,
+          "min": 10,
+          "max": 35
+        }
+      ]
+    },
+    {
+      "songId": "nhelv",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 60
+        }
+      ]
+    },
+    {
+      "songId": "nhelv",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 280
+        }
+      ]
+    },
+    {
+      "songId": "espebranch",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "darakunosono",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 60
+        }
+      ]
+    },
+    {
+      "songId": "espebranch",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "darakunosono",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 280
+        }
+      ]
+    },
+    {
+      "songId": "purgatorium",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 60
+        }
+      ]
+    },
+    {
+      "songId": "purgatorium",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 200
+        }
+      ]
+    },
+    {
+      "songId": "linearaccelerator",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    },
+    {
+      "songId": "linearaccelerator",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "hikari",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "hallofmirrors",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "stager",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    },
+    {
+      "songId": "tiferet",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "linearaccelerator",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "tiferet",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "linearaccelerator",
+          "song_difficulty": 2,
+          "grade": 3
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "rugie",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "suomi",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 60
+        }
+      ]
+    },
+    {
+      "songId": "rugie",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "suomi",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 280
+        }
+      ]
+    },
+    {
+      "songId": "scarletlance",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    },
+    {
+      "songId": "scarletlance",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "merlin",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "dxfullmetal",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "omakeno",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    },
+    {
+      "songId": "ouroboros",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "scarletlance",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "ouroboros",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "scarletlance",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "solitarydream",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 200
+        }
+      ]
+    },
+    {
+      "songId": "solitarydream",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 500
+        }
+      ]
+    },
+    {
+      "songId": "viciousheroism",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    },
+    {
+      "songId": "viciousheroism",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "antithese",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "corruption",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "blackterritory",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    },
+    {
+      "songId": "cyaegha",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "viciousheroism",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "cyaegha",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "viciousheroism",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "grimheart",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 40
+        }
+      ]
+    },
+    {
+      "songId": "grimheart",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 200
+        }
+      ]
+    },
+    {
+      "songId": "revixy",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 60
+        }
+      ]
+    },
+    {
+      "songId": "revixy",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 200
+        }
+      ]
+    },
+    {
+      "songId": "vector",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "grimheart",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "vector",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "grimheart",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 280
+        }
+      ]
+    },
+    {
+      "songId": "supernova",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "revixy",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 60
+        }
+      ]
+    },
+    {
+      "songId": "supernova",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "revixy",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 280
+        }
+      ]
+    },
+    {
+      "songId": "worldvanquisher",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "garakuta",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "ikazuchi",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "worldvanquisher",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "garakuta",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "ikazuchi",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "heavensdoor",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    },
+    {
+      "songId": "heavensdoor",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "particlearts",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "vindication",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    },
+    {
+      "songId": "ringedgenesis",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "heavensdoor",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "ringedgenesis",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "heavensdoor",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "aiueoon",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 2,
+          "song_id": "chelsea",
+          "song_difficulty": 2
+        },
+        {
+          "type": 0,
+          "credit": 75
+        }
+      ]
+    },
+    {
+      "songId": "melodyoflove",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 25
+        }
+      ]
+    },
+    {
+      "songId": "melodyoflove",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 2,
+          "song_id": "aiueoon",
+          "song_difficulty": 2
+        },
+        {
+          "type": 0,
+          "credit": 75
+        }
+      ]
+    },
+    {
+      "songId": "tiemedowngently",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 25
+        }
+      ]
+    },
+    {
+      "songId": "tiemedowngently",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 2,
+          "song_id": "melodyoflove",
+          "song_difficulty": 2
+        },
+        {
+          "type": 0,
+          "credit": 90
+        }
+      ]
+    },
+    {
+      "songId": "valhallazero",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 2,
+          "song_id": "melodyoflove",
+          "song_difficulty": 1
+        },
+        {
+          "type": 2,
+          "song_id": "tiemedowngently",
+          "song_difficulty": 1
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "valhallazero",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 2,
+          "song_id": "tiemedowngently",
+          "song_difficulty": 2
+        },
+        {
+          "type": 0,
+          "credit": 90
+        }
+      ]
+    },
+    {
+      "songId": "freefall",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "diode",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "freefall",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "diode",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 200
+        }
+      ]
+    },
+    {
+      "songId": "gloryroad",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "nirvluce",
+          "song_difficulty": 0,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 20
+        }
+      ]
+    },
+    {
+      "songId": "gloryroad",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "nirvluce",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "gloryroad",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "nirvluce",
+          "song_difficulty": 2,
+          "grade": 3
+        },
+        {
+          "type": 0,
+          "credit": 360
+        }
+      ]
+    },
+    {
+      "songId": "monochromeprincess",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "freefall",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "monochromeprincess",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "freefall",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 280
+        }
+      ]
+    },
+    {
+      "songId": "senkyou",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 40
+        }
+      ]
+    },
+    {
+      "songId": "senkyou",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 200
+        }
+      ]
+    },
+    {
+      "songId": "saikyostronger",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 4,
+          "conditions": [
+            {
+              "type": 1,
+              "song_id": "laqryma",
+              "song_difficulty": 2,
+              "grade": 5
+            },
+            {
+              "type": 3,
+              "song_id": "laqryma",
+              "song_difficulty": 2,
+              "grade": 4,
+              "times": 10
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "conditions": [
+            {
+              "type": 1,
+              "song_id": "einherjar",
+              "song_difficulty": 2,
+              "grade": 5
+            },
+            {
+              "type": 3,
+              "song_id": "einherjar",
+              "song_difficulty": 2,
+              "grade": 4,
+              "times": 10
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "conditions": [
+            {
+              "type": 1,
+              "song_id": "izana",
+              "song_difficulty": 2,
+              "grade": 4
+            },
+            {
+              "type": 3,
+              "song_id": "izana",
+              "song_difficulty": 2,
+              "grade": 3,
+              "times": 10
+            }
+          ]
+        },
+        {
+          "type": 5,
+          "rating": 1100
+        },
+        {
+          "type": 0,
+          "credit": 1000
+        }
+      ]
+    },
+    {
+      "songId": "worldexecuteme",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 40
+        }
+      ]
+    },
+    {
+      "songId": "worldexecuteme",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 200
+        }
+      ]
+    },
+    {
+      "songId": "blrink",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 200
+        }
+      ]
+    },
+    {
+      "songId": "blrink",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 500
+        }
+      ]
+    },
+    {
+      "songId": "corpssansorganes",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "lethaeus",
+          "song_difficulty": 0,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 20
+        }
+      ]
+    },
+    {
+      "songId": "corpssansorganes",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "lethaeus",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "corpssansorganes",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "lethaeus",
+          "song_difficulty": 2,
+          "grade": 3
+        },
+        {
+          "type": 0,
+          "credit": 360
+        }
+      ]
+    },
+    {
+      "songId": "oblivia",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 40
+        }
+      ]
+    },
+    {
+      "songId": "oblivia",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 200
+        }
+      ]
+    },
+    {
+      "songId": "ifi",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "ifi",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "equilibrium",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "antagonism",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 2,
+          "song_id": "dantalion",
+          "song_difficulty": 2
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "lostdesire",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    },
+    {
+      "songId": "lostdesire",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 2,
+          "song_id": "ifi",
+          "song_difficulty": 2
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    },
+    {
+      "songId": "tempestissimo",
+      "ratingClass": 3,
+      "conditions": [
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "tempestissimo",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 101,
+          "min": 0,
+          "max": 0
+        }
+      ]
+    },
+    {
+      "songId": "tempestissimo",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 101,
+          "min": 0,
+          "max": 0
+        }
+      ]
+    },
+    {
+      "songId": "tempestissimo",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 101,
+          "min": 0,
+          "max": 0
+        }
+      ]
+    },
+    {
+      "songId": "gothiveofra",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 60
+        }
+      ]
+    },
+    {
+      "songId": "gothiveofra",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "merlin",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "dxfullmetal",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "omakeno",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 280
+        }
+      ]
+    },
+    {
+      "songId": "buchigireberserker",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 4,
+          "conditions": [
+            {
+              "type": 1,
+              "song_id": "ouroboros",
+              "song_difficulty": 2,
+              "grade": 3
+            },
+            {
+              "type": 3,
+              "song_id": "ouroboros",
+              "song_difficulty": 2,
+              "grade": 1,
+              "times": 5
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "conditions": [
+            {
+              "type": 1,
+              "song_id": "gothiveofra",
+              "song_difficulty": 2,
+              "grade": 4
+            },
+            {
+              "type": 3,
+              "song_id": "gothiveofra",
+              "song_difficulty": 2,
+              "grade": 3,
+              "times": 5
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "credit": 360
+        }
+      ]
+    },
+    {
+      "songId": "jump",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    },
+    {
+      "songId": "jump",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "alicealamode",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "eccentrictale",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "alicessuitcase",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    },
+    {
+      "songId": "felis",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "jump",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "felis",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "jump",
+          "song_difficulty": 2,
+          "grade": 3
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "toaliceliddell",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "besideyou",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "heartjackin",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "toaliceliddell",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "besideyou",
+          "song_difficulty": 2,
+          "grade": 3
+        },
+        {
+          "type": 1,
+          "song_id": "heartjackin",
+          "song_difficulty": 2,
+          "grade": 3
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "viyellastears",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    },
+    {
+      "songId": "viyellastears",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "lazyaddiction",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "dazzlehop",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    },
+    {
+      "songId": "omegafour",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "viyellastears",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "omegafour",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "viyellastears",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "oshamascramble",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    },
+    {
+      "songId": "oshamascramble",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "aprilshowers",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "seventhsense",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    },
+    {
+      "songId": "amazingmightyyyy",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "oshamascramble",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "amazingmightyyyy",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "oshamascramble",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "gou",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "climax",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "lastcelebration",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "gou",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "climax",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "lastcelebration",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "loschen",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    },
+    {
+      "songId": "loschen",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "paperwitch",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "crystalgravity",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "farawaylight",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    },
+    {
+      "songId": "aegleseeker",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 103,
+          "id": 45
+        }
+      ]
+    },
+    {
+      "songId": "aegleseeker",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 103,
+          "id": 45
+        },
+        {
+          "type": 1,
+          "song_id": "loschen",
+          "song_difficulty": 1,
+          "grade": 0
+        }
+      ]
+    },
+    {
+      "songId": "aegleseeker",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 103,
+          "id": 45
+        },
+        {
+          "type": 4,
+          "conditions": [
+            {
+              "type": 1,
+              "song_id": "paperwitch",
+              "song_difficulty": 2,
+              "grade": 5
+            },
+            {
+              "type": 3,
+              "song_id": "paperwitch",
+              "song_difficulty": 2,
+              "grade": 4,
+              "times": 10
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "conditions": [
+            {
+              "type": 1,
+              "song_id": "crystalgravity",
+              "song_difficulty": 2,
+              "grade": 5
+            },
+            {
+              "type": 3,
+              "song_id": "crystalgravity",
+              "song_difficulty": 2,
+              "grade": 4,
+              "times": 10
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "conditions": [
+            {
+              "type": 1,
+              "song_id": "farawaylight",
+              "song_difficulty": 2,
+              "grade": 5
+            },
+            {
+              "type": 3,
+              "song_id": "farawaylight",
+              "song_difficulty": 2,
+              "grade": 4,
+              "times": 10
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "conditions": [
+            {
+              "type": 1,
+              "song_id": "loschen",
+              "song_difficulty": 2,
+              "grade": 4
+            },
+            {
+              "type": 3,
+              "song_id": "loschen",
+              "song_difficulty": 2,
+              "grade": 3,
+              "times": 10
+            }
+          ]
+        },
+        {
+          "type": 5,
+          "rating": 1100
+        }
+      ]
+    },
+    {
+      "songId": "overwhelm",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "coastalhighway",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "odysseia",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "overwhelm",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "coastalhighway",
+          "song_difficulty": 2,
+          "grade": 3
+        },
+        {
+          "type": 1,
+          "song_id": "odysseia",
+          "song_difficulty": 2,
+          "grade": 3
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "rekkaresonance",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "theultimacy",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "divinelight",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "smallcloud",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "alterale",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "divinelight",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "smallcloud",
+          "song_difficulty": 2,
+          "grade": 3
+        },
+        {
+          "type": 1,
+          "song_id": "alterale",
+          "song_difficulty": 2,
+          "grade": 3
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "seclusion",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 200
+        }
+      ]
+    },
+    {
+      "songId": "seclusion",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 500
+        }
+      ]
+    },
+    {
+      "songId": "mazymetroplex",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    },
+    {
+      "songId": "mazymetroplex",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "quonwacca",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "withu",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "letyoudivermx",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    },
+    {
+      "songId": "genocider",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "mazymetroplex",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "genocider",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "mazymetroplex",
+          "song_difficulty": 2,
+          "grade": 3
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "livefastdieyoung",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "cosmica",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "ascent",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "livefastdieyoung",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "cosmica",
+          "song_difficulty": 2,
+          "grade": 3
+        },
+        {
+          "type": 1,
+          "song_id": "ascent",
+          "song_difficulty": 2,
+          "grade": 3
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "neokosmo",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    },
+    {
+      "songId": "neokosmo",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "firstsnow",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "bluerose",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "blockedlibrary",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    },
+    {
+      "songId": "lightningscrew",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "neokosmo",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "lightningscrew",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "neokosmo",
+          "song_difficulty": 2,
+          "grade": 3
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "akinokagerou",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    },
+    {
+      "songId": "akinokagerou",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "lightsofmuse",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "finalstep",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    },
+    {
+      "songId": "medusa",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "akinokagerou",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "medusa",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "akinokagerou",
+          "song_difficulty": 2,
+          "grade": 3
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "nulctrl",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "avril",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 60
+        }
+      ]
+    },
+    {
+      "songId": "nulctrl",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "avril",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 280
+        }
+      ]
+    },
+    {
+      "songId": "stasis",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "prism",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "protoflicker",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "stasis",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "prism",
+          "song_difficulty": 2,
+          "grade": 3
+        },
+        {
+          "type": 1,
+          "song_id": "protoflicker",
+          "song_difficulty": 2,
+          "grade": 3
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "nekonote",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "nulctrl",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 60
+        }
+      ]
+    },
+    {
+      "songId": "nekonote",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "nulctrl",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 280
+        }
+      ]
+    },
+    {
+      "songId": "sanskia",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "ddd",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 60
+        }
+      ]
+    },
+    {
+      "songId": "sanskia",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "ddd",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 200
+        }
+      ]
+    },
+    {
+      "songId": "mukishitsu",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "altair",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 60
+        }
+      ]
+    },
+    {
+      "songId": "mukishitsu",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "altair",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 280
+        }
+      ]
+    },
+    {
+      "songId": "trapcrow",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "mukishitsu",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "trapcrow",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "mukishitsu",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 280
+        }
+      ]
+    },
+    {
+      "songId": "infinitestrife",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "infinitestrife",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "infinitestrife",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "infinitestrife",
+      "ratingClass": 3,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "worldender",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "worldender",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "worldender",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "worldender",
+      "ratingClass": 3,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "pentiment",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "pentiment",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "pentiment",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "pentiment",
+      "ratingClass": 3,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "arcanaeden",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "arcanaeden",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "arcanaeden",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "arcanaeden",
+      "ratingClass": 3,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "testify",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "testify",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "testify",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "testify",
+      "ratingClass": 3,
+      "conditions": [
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "lovelessdress",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "lovelessdress",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "lovelessdress",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "callimakarma",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "callimakarma",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "callimakarma",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "last",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "lovelessdress",
+          "song_difficulty": 0,
+          "grade": 0
+        },
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "last",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "lovelessdress",
+          "song_difficulty": 0,
+          "grade": 0
+        },
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "last",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "lovelessdress",
+          "song_difficulty": 0,
+          "grade": 0
+        },
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "last",
+      "ratingClass": 3,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "lovelessdress",
+          "song_difficulty": 0,
+          "grade": 0
+        },
+        {
+          "type": 106,
+          "song_id": "lasteternity",
+          "song_difficulty": 3,
+          "inverted": true
+        },
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "lasteternity",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "lasteternity",
+          "song_difficulty": 0,
+          "grade": 0
+        },
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "lasteternity",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "lasteternity",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "lasteternity",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "lasteternity",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "lasteternity",
+      "ratingClass": 3,
+      "conditions": [
+        {
+          "type": 105,
+          "char_id": 5,
+          "awakened": true,
+          "inverted": false
+        },
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "goodbyemerry",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    },
+    {
+      "songId": "goodbyemerry",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "kokoro",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "aidrew",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "fluffyflash",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    },
+    {
+      "songId": "lamia",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "goodbyemerry",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "lamia",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "goodbyemerry",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "dialnote",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 60
+        }
+      ]
+    },
+    {
+      "songId": "dialnote",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 200
+        }
+      ]
+    },
+    {
+      "songId": "infinity",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    },
+    {
+      "songId": "infinity",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "cycles",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "maxrage",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    },
+    {
+      "songId": "temptation",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "infinity",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "temptation",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "infinity",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    },
+    {
+      "songId": "primitivelights",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 4,
+          "conditions": [
+            {
+              "type": 6,
+              "count": 1,
+              "rating": 10,
+              "ratingPlus": true
+            },
+            {
+              "type": 6,
+              "count": 10,
+              "rating": 10
+            }
+          ]
+        },
+        {
+          "type": 5,
+          "rating": 1000
+        },
+        {
+          "type": 0,
+          "credit": 360
+        }
+      ]
+    },
+    {
+      "songId": "trrricksters",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    },
+    {
+      "songId": "trrricksters",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "cosmopop",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "impact",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "genesischunithm",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    },
+    {
+      "songId": "spidersthread",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "trrricksters",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    },
+    {
+      "songId": "spidersthread",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "trrricksters",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "lucidtraveler",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "lucidtraveler",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "bulletwaiting",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "devillicsphere",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "chaos",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "lucidtraveler",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "chaos",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "lucidtraveler",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "usedtobe",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 4,
+          "conditions": [
+            {
+              "type": 2,
+              "song_id": "chaos",
+              "song_difficulty": 1,
+              "grade": 0
+            },
+            {
+              "type": 1,
+              "song_id": "chaos",
+              "song_difficulty": 0,
+              "grade": 0
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "credit": 2
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "usedtobe",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 4,
+          "conditions": [
+            {
+              "type": 2,
+              "song_id": "chaos",
+              "song_difficulty": 2,
+              "grade": 0
+            },
+            {
+              "type": 1,
+              "song_id": "chaos",
+              "song_difficulty": 1,
+              "grade": 0
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "credit": 2
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "nnglooms",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "nnglooms",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "syuten",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "drg",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "ii",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "nnglooms",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "ii",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "nnglooms",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "magnolia",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 107
+        },
+        {
+          "type": 0,
+          "credit": 1
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "magnolia",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 107
+        },
+        {
+          "type": 4,
+          "conditions": [
+            {
+              "type": 2,
+              "song_id": "ii",
+              "song_difficulty": 1,
+              "grade": 0
+            },
+            {
+              "type": 1,
+              "song_id": "ii",
+              "song_difficulty": 0,
+              "grade": 0
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "credit": 1
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "magnolia",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 107
+        },
+        {
+          "type": 4,
+          "conditions": [
+            {
+              "type": 2,
+              "song_id": "ii",
+              "song_difficulty": 2,
+              "grade": 0
+            },
+            {
+              "type": 1,
+              "song_id": "ii",
+              "song_difficulty": 1,
+              "grade": 0
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "credit": 1
+        }
+      ]
+    }
+  ]
+}
