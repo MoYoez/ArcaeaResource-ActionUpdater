@@ -13,8 +13,9 @@ b = HTTPAdapter(max_retries=3)
 s.mount("http://", a)
 s.mount("https://", b)
 
-data = requests.get(url).json()
+data = requests.get(url)
 
+data = data.json()
 
 get_url = data["value"]["url"]
 get_version = data["value"]["version"]
