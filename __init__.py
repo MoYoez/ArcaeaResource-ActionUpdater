@@ -3,10 +3,18 @@ from pathlib import Path
 import zipfile
 import requests
 from tqdm import tqdm
+from requests.adapters import HTTPAdapter
 
 url = "https://webapi.lowiro.com/webapi/serve/static/bin/arcaea/apk"
 
+s = requests.Session()
+a = HTTPAdapter(max_retries=3)
+b = HTTPAdapter(max_retries=3)
+s.mount("http://", a)
+s.mount("https://", b)
+
 data = requests.get(url).json()
+
 
 get_url = data["value"]["url"]
 get_version = data["value"]["version"]
