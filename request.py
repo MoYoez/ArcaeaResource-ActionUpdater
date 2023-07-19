@@ -14,14 +14,7 @@ headers = {
 }
 
 
-def request():
-    data = requests.get(url, headers=headers)
-    return data
-
-
-data = request()
-if data.status_code != 200:
-    request()
+data = requests.get(url, headers=headers)
 
 rawdata = data.json()
 

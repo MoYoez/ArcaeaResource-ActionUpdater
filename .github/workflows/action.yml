@@ -1,5 +1,10 @@
 name: Read File in GitHub Actions
-on: [push]
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 */3 * * *'
 
 
 jobs:
