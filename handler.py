@@ -1,49 +1,15 @@
 import os
 from pathlib import Path
 import zipfile
-import requests
-from tqdm import tqdm
-from requests.adapters import HTTPAdapter
 
-url = "https://webapi.lowiro.com/webapi/serve/static/bin/arcaea/apk"
-
-s = requests.Session()
-a = HTTPAdapter(max_retries=3)
-b = HTTPAdapter(max_retries=3)
-s.mount("http://", a)
-s.mount("https://", b)
-
-data = requests.get(url)
-
-data = data.json()
-
-get_url = data["value"]["url"]
-get_version = data["value"]["version"]
+version = Path().absolute() / "version.txt"
+get_version = open(version, "r").read()
 
 output_dir = Path().absolute() / "arcaea"
 song_dir = Path().absolute() / "arcaea" / "assets" / "songs"
 
 apk_file = "arcaea_" + get_version + ".apk"
 version = Path().absolute() / "version.txt"
-
-print(f"get url value,try to download.\n" + get_url + "\n")
-
-response = requests.get(get_url, stream=True)
-# get length.
-total = int(response.headers.get("content-length", 0))
-
-with open(apk_file, "wb") as file, tqdm(
-    desc=apk_file,
-    total=total,
-    unit="iB",
-    unit_scale=True,
-    unit_divisor=1024,
-) as bar:
-    for data in response.iter_content(chunk_size=1024):
-        size = file.write(data)
-        bar.update(size)
-
-    print("downloaded,version: ", get_version)
 
 with zipfile.ZipFile(apk_file, "r") as zip_ref:
     for file_info in zip_ref.infolist():
