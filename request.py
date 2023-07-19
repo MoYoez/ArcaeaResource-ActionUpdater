@@ -12,6 +12,8 @@ headers = {
 }
 data = requests.get(url, headers=headers)
 
+print(data)
+
 rawdata = data.json()
 
 get_url = rawdata["value"]["url"]
