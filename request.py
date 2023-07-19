@@ -7,14 +7,21 @@ url = "https://webapi.lowiro.com/webapi/serve/static/bin/arcaea/apk"
 
 
 headers = {
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
     "Referer": "https://arcaea.lowiro.com",
     "Set-Cookie": "ctrcode=CN; domain=lowiro.com",
     "Access-Control-Allow-Origin": "https://arcaea.lowiro.com",
 }
-data = requests.get(url, headers=headers)
 
-print(data)
+
+def request():
+    data = requests.get(url, headers=headers)
+    return data
+
+
+data = request()
+if data.status_code != 200:
+    request()
 
 rawdata = data.json()
 
