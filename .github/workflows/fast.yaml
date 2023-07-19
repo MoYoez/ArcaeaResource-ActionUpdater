@@ -20,14 +20,14 @@ jobs:
     steps:
       - run: curl -O ${{ github.event.inputs.url }} 
       - uses: actions/checkout@v3
-      - run:
+      - run: |
           find / -name "arcaea_4.6.0c.apk"
           content=${{ github.event.inputs.version }}
           echo $content > version.txt
-      - run:
+      - run: |
             python3 handler.py
             rm *.apk 
-      - run:
+      - run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
