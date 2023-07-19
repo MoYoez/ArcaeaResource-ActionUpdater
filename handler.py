@@ -2,14 +2,14 @@ import os
 from pathlib import Path
 import zipfile
 
-version = Path().absolute() / "version.txt"
-get_version = open(version, "r").read()
 
 output_dir = Path().absolute() / "arcaea"
 song_dir = Path().absolute() / "arcaea" / "assets" / "songs"
 
-apk_file = "arcaea_" + get_version + ".apk"
+
 version = Path().absolute() / "version.txt"
+get_version = open(version, "r").read().replace("\n", "")
+apk_file = "arcaea_" + get_version + ".apk"
 
 with zipfile.ZipFile(apk_file, "r") as zip_ref:
     for file_info in zip_ref.infolist():
