@@ -10,9 +10,10 @@ jobs:
       - run: pip3 install tqdm
       - uses: actions/checkout@v3
       - run: |
-          python3 __init__.py
-          rm *.apk
+          python3 request.py
+          python3 handler.py
           content=$(cat version.txt)
+          rm *.apk
       - run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
