@@ -18,15 +18,16 @@ jobs:
     name: Fetch And Update
     runs-on: ubuntu-latest
     steps:
-      - run: curl -O ${{ github.event.inputs.url }} 
+      - run: pip3 install tqdm
       - uses: actions/checkout@v3
       - run: |
-          content=${{ github.event.inputs.version }}
-          echo $content > version.txt
+          python3 request.py ${{ github.action.inputs.url }} ${{ github.action.inputs.version}}
       - run: |
-            python3 handler.py
-            rm *.apk 
+          python3 handler.py
+          content=$(cat version.txt)
+          rm *.apk
       - run: |
+          content=$(cat version.txt)
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
