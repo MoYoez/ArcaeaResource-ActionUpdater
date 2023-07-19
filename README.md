@@ -15,6 +15,6 @@ Directly Link : https://moyoez.github.io/ArcaeaResource-ActionUpdater/arcaea/ass
 
 > args : char | songs
 
-* It gets from Raw Arcaea File,so Please make sure the "dl_" is existed when handing data. 
+* It gets from Raw Arcaea File,so Please make sure the "dl_" is existed when handling data. 
 
-In China You can try : https://ghproxy.com/github.com/MoYoez/ArcaeaResource-ActionUpdater/blob/main/arcaea/
+In China You can try : https://ghproxy.com/raw.githubusercontent.com/MoYoez/ArcaeaResource-ActionUpdater/main/arcaea/assets/
