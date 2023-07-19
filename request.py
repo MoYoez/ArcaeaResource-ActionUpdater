@@ -1,3 +1,4 @@
+import sys
 from pathlib import Path
 from tqdm import tqdm
 import requests
@@ -5,21 +6,24 @@ import requests
 
 url = "https://webapi.lowiro.com/webapi/serve/static/bin/arcaea/apk"
 
-
 headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 "
+                  "Safari/537.36",
     "Referer": "https://arcaea.lowiro.com",
     "Set-Cookie": "ctrcode=CN; domain=lowiro.com",
     "Access-Control-Allow-Origin": "https://arcaea.lowiro.com",
 }
 
+if sys.argv[1] is not None:
+    get_url = sys.argv[1]
+    get_version = sys.argv[1]
+else:
+    data = requests.get(url, headers=headers)
+    rawdata = data.json()
 
-data = requests.get(url, headers=headers)
+    get_url = rawdata["value"]["url"]
+    get_version = rawdata["value"]["version"]
 
-rawdata = data.json()
-
-get_url = rawdata["value"]["url"]
-get_version = rawdata["value"]["version"]
 
 output_dir = Path().absolute() / "arcaea"
 song_dir = Path().absolute() / "arcaea" / "assets" / "songs"
