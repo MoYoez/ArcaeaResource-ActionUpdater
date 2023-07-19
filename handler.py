@@ -27,6 +27,3 @@ for root, dirs, files in os.walk(song_dir):
             file_name, file_ext = os.path.splitext(file)
             if file_ext in [".aff", ".ogg"]:
                 os.remove(file_path)
-
-with open(version, "w") as file:
-    file.write(get_version)

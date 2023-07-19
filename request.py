@@ -1,25 +1,12 @@
 from pathlib import Path
-import tqdm
+from tqdm import tqdm
 import requests
 
 
 url = "https://webapi.lowiro.com/webapi/serve/static/bin/arcaea/apk"
 
 
-def get_request():
-    retry = 0
-    global data
-    try:
-        data = requests.get(url)
-    except Exception as e:
-        retry += 1
-        get_request()
-        if retry > 5:
-            print("retry too many times,exit\n", data.status_code)
-            exit
-
-
-get_request()
+data = requests.get(url)
 
 data = data.json()
 
