@@ -19,6 +19,8 @@ def get_request():
             exit
 
 
+get_request()
+
 data = data.json()
 
 get_url = data["value"]["url"]
