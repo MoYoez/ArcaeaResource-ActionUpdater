@@ -21,7 +21,6 @@ jobs:
       - run: curl -O ${{ github.event.inputs.url }} 
       - uses: actions/checkout@v3
       - run: |
-          find / -name "arcaea_4.6.0c.apk"
           content=${{ github.event.inputs.version }}
           echo $content > version.txt
       - run: |
