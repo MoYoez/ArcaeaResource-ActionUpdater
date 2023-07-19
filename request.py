@@ -6,12 +6,16 @@ import requests
 url = "https://webapi.lowiro.com/webapi/serve/static/bin/arcaea/apk"
 
 
-data = requests.get(url)
+headers = {
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+    "referer": "https://arcaea.lowiro.com/",
+}
+data = requests.get(url, headers=headers)
 
-data = data.json()
+rawdata = data.json()
 
-get_url = data["value"]["url"]
-get_version = data["value"]["version"]
+get_url = rawdata["value"]["url"]
+get_version = rawdata["value"]["version"]
 
 output_dir = Path().absolute() / "arcaea"
 song_dir = Path().absolute() / "arcaea" / "assets" / "songs"
