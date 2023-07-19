@@ -1,0 +1,33 @@
+name: Handle it without Lowiro API
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "download url"
+        required: true
+        type: string
+      version:
+        description: "version"
+        required: true
+        type: string
+permissions: write-all
+
+
+jobs:
+  starter:
+    name: Fetch And Update
+    runs-on: ubuntu-latest
+    steps:
+      - run: wget ${{ github.event.inputs.url }}
+      - uses: actions/checkout@v3
+      - run: |
+          python3 handler.py
+          content=${{ github.event.inputs.url }}
+          echo $content > version.txt
+          rm *.apk
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Version $content"
+          git push
