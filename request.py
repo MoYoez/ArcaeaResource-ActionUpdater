@@ -16,7 +16,7 @@ headers = {
 
 if len(sys.argv) > 1:
     get_url = sys.argv[1]
-    get_version = sys.argv[1]
+    get_version = sys.argv[2]
 else:
     data = requests.get(url, headers=headers)
     rawdata = data.json()

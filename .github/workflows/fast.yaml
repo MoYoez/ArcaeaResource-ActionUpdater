@@ -21,7 +21,7 @@ jobs:
       - run: pip3 install tqdm
       - uses: actions/checkout@v3
       - run: |
-          python3 request.py ${{ github.action.inputs.url }} ${{ github.action.inputs.version}}
+          python3 request.py ${{ inputs.url }} ${{ inputs.version}}
       - run: |
           python3 handler.py
           content=$(cat version.txt)
