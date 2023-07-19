@@ -21,9 +21,9 @@ jobs:
       - run: wget ${{ github.event.inputs.url }}
       - uses: actions/checkout@v3
       - run: |
-          python3 handler.py
           content=${{ github.event.inputs.version }}
           echo $content > version.txt
+          python3 handler.py
           rm *.apk
       - run: |
           git config user.name github-actions
