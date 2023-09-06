@@ -4534,5 +4534,149 @@
         }
       ]
     }
+    ,
+    {
+      "songId": "unknownlevels",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "unknownlevels",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "waitfordawn",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "ravenspride",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "riseoftheworld",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "abstrusedilemma",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "unknownlevels",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "abstrusedilemma",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 4,
+          "conditions": [
+            {
+              "type": 1,
+              "song_id": "waitfordawn",
+              "song_difficulty": 2,
+              "grade": 5
+            },
+            {
+              "type": 3,
+              "song_id": "waitfordawn",
+              "song_difficulty": 2,
+              "grade": 4,
+              "times": 10
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "conditions": [
+            {
+              "type": 1,
+              "song_id": "ravenspride",
+              "song_difficulty": 2,
+              "grade": 5
+            },
+            {
+              "type": 3,
+              "song_id": "ravenspride",
+              "song_difficulty": 2,
+              "grade": 4,
+              "times": 10
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "conditions": [
+            {
+              "type": 1,
+              "song_id": "riseoftheworld",
+              "song_difficulty": 2,
+              "grade": 4
+            },
+            {
+              "type": 3,
+              "song_id": "riseoftheworld",
+              "song_difficulty": 2,
+              "grade": 3,
+              "times": 10
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "conditions": [
+            {
+              "type": 1,
+              "song_id": "unknownlevels",
+              "song_difficulty": 2,
+              "grade": 4
+            },
+            {
+              "type": 3,
+              "song_id": "unknownlevels",
+              "song_difficulty": 2,
+              "grade": 3,
+              "times": 10
+            }
+          ]
+        },
+        {
+          "type": 5,
+          "rating": 1100
+        },
+        {
+          "type": 0,
+          "credit": 1000
+        }
+      ]
+    }
   ]
 }

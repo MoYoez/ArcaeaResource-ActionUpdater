@@ -149,6 +149,21 @@
       }
     },
     {
+      "id": "eden",
+      "plus_character": 71,
+      "custom_banner": true,
+      "name_localized": {
+        "en": "Lasting Eden"
+      },
+      "description_localized": {
+        "en": "Wrapped in the shroud of night,\nher eyes tender to the faintest glimmer,\na lone girl wakes to a bitter gift.\n\nJourney through dusk's embrace with Maya\nand experience a dazzling voyage with 5\nwinners of the \"Imagining After\" Song Contest.",
+        "ja": "夜の毛布に包まれて、\n少女の双眸はきらめきに揺れる。\nそれは、いつかの惨影から。\n\n楽曲コンテスト第3回\n『Imagining After』、その入賞曲5つを収録。\n追憶の夕暮れの中、マヤの道のりを見守ろう。",
+        "ko": "밤의 장막에 싸여,\n그 눈은 희미한 반짝임조차 거부하네.\n잔인한 선물을 안고 깨어난 소녀여.\n\n5개의 \"Imagining After\" 컨테스트 우승곡을 통해,\n마야와 함께 눈부신 여정을 떠나보세요. ",
+        "zh-Hant": "一望無際的深沈夜幕籠罩之下，\n哪怕是一絲微弱的光亮也將刺痛她的眼睛；\n少女獨自醒來之時，殘酷的苦痛便已加諸其身。\n\n薄暮懷抱之下，五首Imagining After比賽的優勝曲目\n將與你和摩耶一同踏上這段炫彩奪目的旅程。",
+        "zh-Hans": "一望无际的深沉夜幕笼罩之下，\n哪怕是一丝微弱的光亮也将刺痛她的眼睛；\n少女独自醒来之时，残酷的苦痛便已加诸其身。\n\n薄暮怀抱之下，五首Imagining After比赛的优胜曲目\n将与你和摩耶一同踏上这段炫彩夺目的旅程。"
+      }
+    },
+    {
       "id": "observer",
       "plus_character": 45,
       "custom_banner": true,

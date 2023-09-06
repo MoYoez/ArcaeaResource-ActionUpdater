@@ -20705,6 +20705,437 @@
                     "rating": 10
                 }
             ]
+        },
+        {
+            "idx": 335,
+            "id": "sacrifice",
+            "title_localized": {
+                "en": "SACRIFICE feat. ayame"
+            },
+            "artist": "Masayoshi Minoshima(ALR)",
+            "search_title": {
+                "ja": [
+                    "さくりふぁいす"
+                ],
+                "ko": [
+                    "새크리파이스"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "まさよしみのしま",
+                    "あやめ"
+                ],
+                "ko": [
+                    "마사요시 미노시마"
+                ]
+            },
+            "bpm": "180",
+            "bpm_base": 180,
+            "set": "single",
+            "purchase": "sacrifice",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "touhou_conflict",
+            "bg_inverse": "touhou_light",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1692230400,
+            "version": "4.7",
+            "source_copyright": "©上海アリス幻樂団",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Luxance",
+                    "jacketDesigner": "宵野コタロー + SoU(wavforme)",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Luxance",
+                    "jacketDesigner": "宵野コタロー + SoU(wavforme)",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Luxance",
+                    "jacketDesigner": "宵野コタロー + SoU(wavforme)",
+                    "rating": 9,
+                    "ratingPlus": true
+                }
+            ]
+        },
+        {
+            "idx": 336,
+            "id": "rgb",
+            "title_localized": {
+                "en": "RGB"
+            },
+            "artist": "MEMODEMO X AQUASINE",
+            "search_title": {
+                "ja": [
+                    "あーるじーびー"
+                ],
+                "ko": [
+                    "알지비"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "めもでも",
+                    "あくあさいん"
+                ],
+                "ko": [
+                    "메모데모",
+                    "아쿠아사인"
+                ]
+            },
+            "bpm": "163",
+            "bpm_base": 163,
+            "set": "extend_2",
+            "purchase": "extend_2",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "observer_light",
+            "bg_inverse": "observer_conflict",
+            "remote_dl": true,
+            "world_unlock": true,
+            "date": 1692230401,
+            "version": "4.7",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "NO₂",
+                    "jacketDesigner": "いわこ脳",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "NO₂",
+                    "jacketDesigner": "いわこ脳",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "NO₂",
+                    "jacketDesigner": "いわこ脳",
+                    "rating": 9,
+                    "ratingPlus": true
+                }
+            ]
+        },
+        {
+            "idx": 337,
+            "id": "waitfordawn",
+            "title_localized": {
+                "en": "WAIT FOR DAWN"
+            },
+            "artist": "U-ske feat. 棗いつき",
+            "search_title": {
+                "ja": [
+                    "うぇいとふぉーどーん"
+                ],
+                "ko": [
+                    "웨잇 포 던",
+                    "웨잇 폴 던"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "natsume itsuki"
+                ],
+                "ja": [
+                    "ゆーすけ",
+                    "ゆうすけ",
+                    "なつめいつき"
+                ],
+                "ko": [
+                    "유스케",
+                    "나츠메 이츠키"
+                ]
+            },
+            "bpm": "188",
+            "bpm_base": 188,
+            "set": "eden",
+            "purchase": "eden",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "eden_light",
+            "bg_inverse": "eden_conflict",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1692230402,
+            "version": "4.7",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "én",
+                    "jacketDesigner": "子期安NANA_ANN",
+                    "rating": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "én",
+                    "jacketDesigner": "子期安NANA_ANN",
+                    "rating": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "én",
+                    "jacketDesigner": "子期安NANA_ANN",
+                    "rating": 8
+                }
+            ]
+        },
+        {
+            "idx": 338,
+            "id": "ravenspride",
+            "title_localized": {
+                "en": "Raven's Pride",
+                "ja": "レイヴンズ・プライド"
+            },
+            "artist": "みーに feat. はらもりよしな",
+            "search_title": {
+                "ko": [
+                    "레이븐즈 프라이드",
+                    "레이븐스 프라이드"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "mini",
+                    "haramori yoshina"
+                ],
+                "ko": [
+                    "미니",
+                    "하라모리 요시나"
+                ]
+            },
+            "bpm": "165",
+            "bpm_base": 165,
+            "set": "eden",
+            "purchase": "eden",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "eden_conflict",
+            "bg_inverse": "eden_light",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1692230403,
+            "version": "4.7",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Exschwasion",
+                    "jacketDesigner": "めとこ",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Exschwasion",
+                    "jacketDesigner": "めとこ",
+                    "rating": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Exschwasion",
+                    "jacketDesigner": "めとこ",
+                    "rating": 9
+                }
+            ]
+        },
+        {
+            "idx": 339,
+            "id": "riseoftheworld",
+            "title_localized": {
+                "en": "Rise of the World"
+            },
+            "artist": "cosMo＠暴走P",
+            "search_title": {
+                "ja": [
+                    "らいずおぶざわーるど"
+                ],
+                "ko": [
+                    "라이즈 오브 더 월드"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "bousou"
+                ],
+                "ja": [
+                    "こすもぼうそうぴー",
+                    "こすもあっとぼうそうぴー"
+                ],
+                "ko": [
+                    "코스모폭주피",
+                    "코스모앳폭주피",
+                    "코스모폭주P",
+                    "코스모앳폭주P"
+                ]
+            },
+            "bpm": "182-212",
+            "bpm_base": 212,
+            "set": "eden",
+            "purchase": "eden",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "eden_light",
+            "bg_inverse": "eden_conflict",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1692230404,
+            "version": "4.7",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "N⇑TRO",
+                    "jacketDesigner": "Asgard",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "N⇑TRO",
+                    "jacketDesigner": "Asgard",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "N⇑TRO",
+                    "jacketDesigner": "Asgard",
+                    "rating": 10
+                }
+            ]
+        },
+        {
+            "idx": 340,
+            "id": "unknownlevels",
+            "title_localized": {
+                "en": "UNKNOWN LEVELS"
+            },
+            "artist": "Yuta Imai",
+            "search_title": {
+                "ja": [
+                    "あんのうんれべるす",
+                    "あんのうんれべるず"
+                ],
+                "ko": [
+                    "언노운 레벨즈",
+                    "언노운 레벨스"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "ゆうたいまい"
+                ],
+                "ko": [
+                    "유타 이마이",
+                    "유우타 이마이"
+                ]
+            },
+            "bpm": "110-165",
+            "bpm_base": 165,
+            "set": "eden",
+            "purchase": "eden",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "eden_conflict",
+            "bg_inverse": "eden_light",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1692230405,
+            "version": "4.7",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Toaster",
+                    "jacketDesigner": "ひと和",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Toaster",
+                    "jacketDesigner": "ひと和",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "⇓ 東星 vs Toaster ⇓",
+                    "jacketDesigner": "ひと和",
+                    "rating": 10
+                }
+            ]
+        },
+        {
+            "idx": 341,
+            "id": "abstrusedilemma",
+            "title_localized": {
+                "en": "Abstruse Dilemma"
+            },
+            "artist": "Ashrount vs. 打打だいず",
+            "search_title": {
+                "ja": [
+                    "あぶすとぅるすじれんま",
+                    "あぶすとぅるーすじれんま"
+                ],
+                "ko": [
+                    "업스트루스 딜레마",
+                    "앱스트루스 딜레마"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "dadadaizu",
+                    "dddice"
+                ],
+                "ja": [
+                    "あしゅらうんと",
+                    "だだだいず"
+                ],
+                "ko": [
+                    "애쉬라운트",
+                    "애쉬런트",
+                    "다다다이즈"
+                ]
+            },
+            "bpm": "216",
+            "bpm_base": 216,
+            "set": "eden",
+            "purchase": "eden",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "eden_boss",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1692230406,
+            "version": "4.7",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Remnant ⇐ Guilt",
+                    "jacketDesigner": "おぐち",
+                    "rating": 5
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Remnant ⇒ Doubt",
+                    "jacketDesigner": "おぐち",
+                    "rating": 8
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Remnant ⇑⇓ Volition",
+                    "jacketDesigner": "おぐち",
+                    "rating": 11
+                }
+            ]
         }
     ]
 }
