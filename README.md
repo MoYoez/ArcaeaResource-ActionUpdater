@@ -1,7 +1,5 @@
 ## Arcaea Resource Updater (Github Action Method)
 
-## ARCHIVED : Unlimited Arcaea API && Arcaea Unlimited API ENDED, thanks to Lowiro, You are a good company that betray Every player.
-
 Use Github Action To Update Arcaea Resource, url from Lowiro WebAPI.
 
 * Warning: Lowiro API may not work during their firewall Policy, maybe you can input the url directly.
