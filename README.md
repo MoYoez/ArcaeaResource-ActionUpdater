@@ -6,6 +6,7 @@ Use Github Action To Update Arcaea Resource, url from Lowiro WebAPI.
 
 * Or You can use the link from "616.sb", maybe That work().
 
+* tips: If you just use directly link, make sure the file name is arcaea_{version}.apk
 
 ### Directly Link:
 
