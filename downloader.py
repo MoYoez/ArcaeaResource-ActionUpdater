@@ -3,8 +3,9 @@ from tqdm import tqdm
 import requests
 import os
 
+with open("temp.txt", "w") as temp:
+    get_temp = temp.read()
 
-get_temp = os.readlink("temp.txt")
 get_temp_list = get_temp.split("\n")
 
 get_version = get_temp_list[1]
