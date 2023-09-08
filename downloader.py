@@ -1,10 +1,11 @@
 from pathlib import Path
 from tqdm import tqdm
 import requests
-import os
+from pathlib import Path
 
-with open("temp.txt", "w") as temp:
-    get_temp = temp.read()
+temp = Path().absolute() / "temp.txt"
+
+get_temp = open(temp, "r").read()
 
 get_temp_list = get_temp.split("\n")
 

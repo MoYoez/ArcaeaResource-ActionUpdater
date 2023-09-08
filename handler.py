@@ -3,9 +3,10 @@ from pathlib import Path
 import zipfile
 import time
 
+temp = Path().absolute() / "temp.txt"
 
-get_version = os.readlink("temp.txt")
-get_version = get_version.split("\n")[1]
+get_temp = open(temp, "r").read()
+get_version = get_temp.split("\n")[1]
 
 output_dir = Path().absolute() / "arcaea"
 song_dir = Path().absolute() / "arcaea" / "assets" / "songs"
