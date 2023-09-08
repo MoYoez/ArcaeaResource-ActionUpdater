@@ -4,18 +4,18 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '0 */12 * * *'
 
 
 jobs:
   starter:
-    name: Fetch And Update
+    name: Request url and handle data
     runs-on: ubuntu-latest
     steps:
-      - run: pip3 install tqdm
       - uses: actions/checkout@v3
       - run: |
           python3 request.py
+      - run: pip3 install tqdm
       - run: |
           python3 handler.py
           content=$(cat version.txt)
