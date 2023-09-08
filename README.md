@@ -14,7 +14,7 @@ You can try to download the assets without being updated by using Arcaea-updater
 
 Directly Link : https://moyoez.github.io/ArcaeaResource-ActionUpdater/arcaea/assets/
 
-> args : char | songs
+> args : char | songs | img (game resource)
 
 * It gets from Raw Arcaea File,so Please make sure the "dl_" is existed when handling data. 
 
