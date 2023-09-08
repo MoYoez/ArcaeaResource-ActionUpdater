@@ -15,7 +15,7 @@ with zipfile.ZipFile(apk_file, "r") as zip_ref:
     for file_info in zip_ref.infolist():
         if file_info.filename.startswith(
             "assets/songs/"
-        ) or file_info.filename.startswith("assets/char/"):
+        ) or file_info.filename.startswith("assets/char/") or or file_info.filename.startswith("assets/img/"):
             zip_ref.extract(file_info, output_dir)
 
 # delete all *.ogg || *.aff || Handle Process
