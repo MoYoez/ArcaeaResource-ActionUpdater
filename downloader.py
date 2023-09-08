@@ -4,8 +4,11 @@ import requests
 import os
 
 
-get_version = os.environ.get["get_version"]
-get_url = os.environ.get["get_url"]
+get_temp = os.readlink("temp.txt")
+get_temp_list = get_temp.split("\n")
+
+get_version = get_temp_list[1]
+get_url = get_temp_list[0]
 
 output_dir = Path().absolute() / "arcaea"
 song_dir = Path().absolute() / "arcaea" / "assets" / "songs"

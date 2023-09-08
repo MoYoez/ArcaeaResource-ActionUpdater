@@ -26,10 +26,12 @@ jobs:
           python3 downloader.py
       - run: |
           python3 handler.py
+          content=$(cat version.txt)
           rm *.apk
+          rm temp.txt
       - run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit -m "Version ${{ inputs.version}}"
+          git commit -m "Version $content"
           git push

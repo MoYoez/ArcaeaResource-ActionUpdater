@@ -1,6 +1,5 @@
 import sys
 import requests
-import os
 
 url = "https://webapi.lowiro.com/webapi/serve/static/bin/arcaea/apk"
 
@@ -22,5 +21,10 @@ else:
     get_url = rawdata["value"]["url"]
     get_version = rawdata["value"]["version"]
 
-os.environ["get_url"] = get_url
-os.environ["get_version"] = get_version
+# init a temp file to save.
+with open("temp.txt", "w") as temp:
+    temp.write(get_url + "\n")
+    temp.write(get_version + "\n")
+
+with open("version.txt", "w") as version:
+    version.write(get_version)
