@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 import zipfile
-import time
+from time import strftime, localtime
 
 temp = Path().absolute() / "temp.txt"
 
@@ -10,7 +10,7 @@ get_version = get_temp.split("\n")[1]
 
 output_dir = Path().absolute() / "arcaea"
 song_dir = Path().absolute() / "arcaea" / "assets" / "songs"
-update_time = time.now().strftime("%Y-%m-%d %H:%M:%S")
+update_time = strftime("%Y-%m-%d %H:%M:%S", localtime())
 
 apk_file = "arcaea_" + get_version + ".apk"
 # Handle raw resources
