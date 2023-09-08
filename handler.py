@@ -49,8 +49,8 @@ readme_content = (
     + "\n"
     + "* Last Update: "
     + update_time
-    + "   "
-    + "Version: "
+    + "\n\n"
+    + "* Version: "
     + get_version
 )
 
