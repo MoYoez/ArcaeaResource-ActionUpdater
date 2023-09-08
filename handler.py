@@ -11,6 +11,8 @@ get_version = get_temp.split("\n")[1]
 output_dir = Path().absolute() / "arcaea"
 song_dir = Path().absolute() / "arcaea" / "assets" / "songs"
 update_time = strftime("%Y-%m-%d %H:%M:%S", localtime())
+readme_file = Path().absolute() / "README.md"
+readme_template = Path().absolute() / "README.Template"
 
 apk_file = "arcaea_" + get_version + ".apk"
 # Handle raw resources
@@ -37,7 +39,7 @@ for root, dirs, files in os.walk(song_dir):
 
 # modify readme file
 
-readme = open("README.Template", "r")
+readme = open(readme_template, "r")
 readme_content = readme.read()
 
 readme_content = (
@@ -53,10 +55,11 @@ readme_content = (
 )
 
 ## remove old readme file.
-os.remove("README.md")
+if os.path.exists(readme_file):
+    os.remove(readme_file)
 
 ## create new readme file.
-with open("README.md", "w") as new_readme:
+with open(readme_file, "w") as new_readme:
     new_readme.write(readme_content)
 
 readme.close()
