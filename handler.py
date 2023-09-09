@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 import zipfile
-from time import strftime, localtime
+from datetime import datetime, timedelta
 
 temp = Path().absolute() / "temp.txt"
 
@@ -10,7 +10,11 @@ get_version = get_temp.split("\n")[1]
 
 output_dir = Path().absolute() / "arcaea"
 song_dir = Path().absolute() / "arcaea" / "assets" / "songs"
-update_time = strftime("%Y-%m-%d %H:%M:%S", localtime())
+
+current_time_utc = datetime.utcnow()
+gmt_plus_8_offset = timedelta(hours=8)
+time_in_gmt_plus_8 = current_time_utc + gmt_plus_8_offset
+update_time = time_in_gmt_plus_8.strftime("%Y-%m-%d %H:%M:%S")
 readme_file = Path().absolute() / "README.md"
 readme_template = Path().absolute() / "README.Template"
 
