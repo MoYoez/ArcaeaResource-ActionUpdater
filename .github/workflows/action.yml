@@ -21,8 +21,8 @@ jobs:
           python3 handler.py
           rm *.apk
           rm temp.txt
-          content=$(cat version.txt)
       - run: |
+          content=$(cat version.txt)
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
