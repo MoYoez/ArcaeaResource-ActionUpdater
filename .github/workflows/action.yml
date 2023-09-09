@@ -21,9 +21,10 @@ jobs:
           python3 handler.py
           rm *.apk
           rm temp.txt
+          content=$(cat version.txt)
       - run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit -m "Version $get_version"
+          git commit -m "Version $content"
           git push
