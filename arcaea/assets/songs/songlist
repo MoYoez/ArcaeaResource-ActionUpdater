@@ -16970,8 +16970,8 @@
                 }
             ],
             "additional_files": [
-                "video.mp4",
-                "video_audio.ogg"
+                {"file_name": "video.mp4", "requirement": "required"},
+                {"file_name": "video_audio.ogg", "requirement": "required"}
             ]
         },
         {
@@ -17046,8 +17046,8 @@
                 }
             ],
             "additional_files": [
-                "video.mp4",
-                "video_audio.ogg"
+                {"file_name": "video.mp4", "requirement": "required"},
+                {"file_name": "video_audio.ogg", "requirement": "required"}
             ]
         },
         {
@@ -17117,8 +17117,8 @@
                 }
             ],
             "additional_files": [
-                "video.mp4",
-                "video_audio.ogg"
+                {"file_name": "video.mp4", "requirement": "required"},
+                {"file_name": "video_audio.ogg", "requirement": "required"}
             ]
         },
         {
@@ -17191,8 +17191,8 @@
                 }
             ],
             "additional_files": [
-                "video.mp4",
-                "video_audio.ogg"
+                {"file_name": "video.mp4", "requirement": "required"},
+                {"file_name": "video_audio.ogg", "requirement": "required"}
             ]
         },
         {
@@ -17271,8 +17271,8 @@
                 }
             ],
             "additional_files": [
-                "video.mp4",
-                "video_audio.ogg"
+                {"file_name": "video.mp4", "requirement": "required"},
+                {"file_name": "video_audio.ogg", "requirement": "required"}
             ]
         },
         {
@@ -21134,6 +21134,137 @@
                     "chartDesigner": "Remnant ⇑⇓ Volition",
                     "jacketDesigner": "おぐち",
                     "rating": 11
+                }
+            ]
+        },
+        {
+            "idx": 342,
+            "id": "matenrou",
+            "title_localized": {
+                "en": "Kanjou no Matenrou ～Arr.Demetori",
+                "ja": "感情の摩天楼 ～Arr.Demetori"
+            },
+            "artist": "Demetori",
+            "search_title": {
+                "en": [
+                    "kanjou no matenrou"
+                ],
+                "ja": [
+                    "かんじょうのまてんろうあれんじ"
+                ],
+                "ko": [
+                    "감정의 마천루",
+                    "칸죠노 마텐로우"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "でめとり"
+                ],
+                "ko": [
+                    "데메토리"
+                ]
+            },
+            "bpm": "178",
+            "bpm_base": 178,
+            "set": "extend_2",
+            "purchase": "extend_2",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "touhou_conflict",
+            "bg_inverse": "touhou_light",
+            "remote_dl": true,
+            "world_unlock": true,
+            "source_copyright": "©上海アリス幻樂団",
+            "date": 1694664000,
+            "version": "4.7",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Exschwasion",
+                    "jacketDesigner": "",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Exschwasion",
+                    "jacketDesigner": "",
+                    "rating": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "N•Ex•T",
+                    "jacketDesigner": "",
+                    "rating": 9,
+                    "ratingPlus": true
+                }
+            ]
+        },
+        {
+            "idx": 343,
+            "id": "tothefurthestdream",
+            "title_localized": {
+                "en": "To the Furthest Dream",
+				"ja": "彼方の夢へと"
+            },
+            "artist": "ii/night feat. 綺良雪",
+            "search_title": {
+                "ja": [
+                    "かなたのゆめへと"
+                ],
+                "ko": [
+                    "저 편의 꿈으로",
+                    "투 더 퍼디스트 드림"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "yuki kira"
+                ],
+                "ja": [
+                    "とぅないと",
+                    "きらゆき"
+                ],
+                "ko": [
+                    "투나잇",
+                    "투나이트",
+                    "키라 유키"
+                ]
+            },
+            "bpm": "183",
+            "bpm_base": 183,
+            "set": "single",
+            "purchase": "tothefurthestdream",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 2,
+            "bg": "epilogue",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1694664001,
+            "version": "4.7",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "",
+                    "jacketDesigner": "Bison",
+                    "rating": 4,
+                    "jacketOverride": true
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "",
+                    "jacketDesigner": "Bison",
+                    "rating": 7,
+                    "jacketOverride": true
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "",
+                    "jacketDesigner": "Bison",
+                    "rating": 9,
+                    "ratingPlus": true
                 }
             ]
         }
