@@ -156,6 +156,7 @@
             "world_unlock": true,
             "bg": "base_light",
             "bg_inverse": "base_conflict",
+            "remote_dl": true,
             "date": 1487980809,
             "version": "1.0",
             "difficulties": [
@@ -333,6 +334,7 @@
             "world_unlock": true,
             "bg": "base_conflict",
             "bg_inverse": "base_light",
+            "remote_dl": true,
             "date": 1487980804,
             "version": "1.0",
             "difficulties": [
@@ -508,6 +510,7 @@
             "audioPreview": 64411,
             "audioPreviewEnd": 92647,
             "side": 0,
+            "remote_dl": true,
             "world_unlock": true,
             "bg": "base_light",
             "bg_inverse": "base_conflict",
@@ -738,6 +741,7 @@
             "world_unlock": true,
             "bg": "base_light",
             "bg_inverse": "base_conflict",
+            "remote_dl": true,
             "date": 1487980806,
             "version": "1.0",
             "difficulties": [
@@ -932,6 +936,7 @@
             "world_unlock": true,
             "bg": "base_conflict",
             "bg_inverse": "base_light",
+            "remote_dl": true,
             "date": 1487980810,
             "version": "1.0",
             "difficulties": [
@@ -1326,6 +1331,7 @@
             "world_unlock": true,
             "bg": "base_conflict",
             "bg_inverse": "base_light",
+            "remote_dl": true,
             "date": 1491868801,
             "version": "1.0",
             "difficulties": [
@@ -2042,6 +2048,7 @@
             "world_unlock": true,
             "bg": "base_light",
             "bg_inverse": "base_conflict",
+            "remote_dl": true,
             "date": 1496188801,
             "version": "1.1",
             "difficulties": [
@@ -2559,6 +2566,7 @@
             "world_unlock": true,
             "bg": "base_conflict",
             "bg_inverse": "base_light",
+            "remote_dl": true,
             "date": 1500163200,
             "version": "1.1",
             "difficulties": [
@@ -2931,6 +2939,7 @@
             "side": 0,
             "world_unlock": true,
             "bg": "shiawase",
+            "remote_dl": true,
             "date": 1502323200,
             "version": "1.1",
             "difficulties": [
@@ -3049,6 +3058,7 @@
             "world_unlock": true,
             "bg": "base_conflict",
             "bg_inverse": "base_light",
+            "remote_dl": true,
             "date": 1505520000,
             "version": "1.1",
             "difficulties": [
@@ -3532,6 +3542,7 @@
             "world_unlock": true,
             "bg": "base_light",
             "bg_inverse": "base_conflict",
+            "remote_dl": true,
             "date": 1509667201,
             "version": "1.5",
             "difficulties": [
@@ -3589,6 +3600,7 @@
             "world_unlock": true,
             "bg": "base_conflict",
             "bg_inverse": "base_light",
+            "remote_dl": true,
             "date": 1509667202,
             "version": "1.5",
             "difficulties": [
@@ -4142,6 +4154,7 @@
             "world_unlock": true,
             "bg": "mirai_light",
             "bg_inverse": "mirai_conflict",
+            "remote_dl": true,
             "date": 1513814401,
             "version": "1.5",
             "difficulties": [
@@ -4626,7 +4639,7 @@
             "side": 1,
             "bg": "yugamu",
             "bg_inverse": "rei",
-            "remote_dl": false,
+            "remote_dl": true,
             "world_unlock": true,
             "date": 1520553600,
             "version": "1.5",
@@ -4861,6 +4874,7 @@
             "side": 1,
             "bg": "yugamu",
             "bg_inverse": "rei",
+            "remote_dl": true,
             "world_unlock": true,
             "date": 1527811200,
             "version": "1.6",
@@ -5378,6 +5392,7 @@
             "side": 0,
             "bg": "nijuusei-light-b",
             "bg_inverse": "nijuusei-conflict-b",
+            "remote_dl": true,
             "world_unlock": true,
             "date": 1531699200,
             "version": "1.7",
@@ -5436,6 +5451,7 @@
             "side": 1,
             "bg": "yugamu",
             "bg_inverse": "rei",
+            "remote_dl": true,
             "world_unlock": true,
             "date": 1531699201,
             "version": "1.7",
@@ -5508,6 +5524,7 @@
             "side": 1,
             "bg": "base_conflict",
             "bg_inverse": "base_light",
+            "remote_dl": true,
             "world_unlock": true,
             "date": 1531699202,
             "version": "1.7",
@@ -5696,6 +5713,7 @@
             "side": 1,
             "bg": "lethaeus",
             "world_unlock": true,
+            "remote_dl": true,
             "date": 1533859200,
             "version": "1.7",
             "difficulties": [
@@ -5761,6 +5779,7 @@
             "bg": "mirai_conflict",
             "bg_inverse": "mirai_light",
             "world_unlock": true,
+            "remote_dl": true,
             "date": 1535673600,
             "version": "1.7",
             "difficulties": [
@@ -6252,6 +6271,7 @@
             "bg": "base_conflict",
             "bg_inverse": "base_light",
             "world_unlock": true,
+            "remote_dl": true,
             "date": 1541635200,
             "version": "1.8",
             "difficulties": [
@@ -7252,6 +7272,7 @@
             "side": 1,
             "bg": "base_conflict",
             "bg_inverse": "base_light",
+            "remote_dl": true,
             "world_unlock": true,
             "date": 1553126401,
             "version": "2.0",
@@ -7308,6 +7329,7 @@
             "side": 0,
             "bg": "rei",
             "bg_inverse": "yugamu",
+            "remote_dl": true,
             "world_unlock": true,
             "date": 1553126400,
             "version": "2.0",
@@ -7369,6 +7391,7 @@
             "side": 1,
             "bg": "mirai_conflict",
             "bg_inverse": "mirai_light",
+            "remote_dl": true,
             "world_unlock": true,
             "date": 1556755200,
             "version": "2.0",
@@ -7427,6 +7450,7 @@
             "side": 1,
             "bg": "nijuusei-conflict-b",
             "bg_inverse": "nijuusei-light-b",
+            "remote_dl": true,
             "world_unlock": true,
             "date": 1556755201,
             "version": "2.0",
@@ -8430,7 +8454,7 @@
             "audioPreviewEnd": 52727,
             "side": 0,
             "bg": "shiawase",
-            "remote_dl": false,
+            "remote_dl": true,
             "world_unlock": true,
             "date": 1570492800,
             "version": "2.4",
@@ -8490,7 +8514,7 @@
             "side": 1,
             "bg": "omatsuri_conflict",
             "bg_inverse": "omatsuri_light",
-            "remote_dl": false,
+            "remote_dl": true,
             "world_unlock": true,
             "date": 1570492801,
             "version": "2.4",
@@ -8618,7 +8642,7 @@
             "side": 1,
             "bg": "omatsuri_conflict",
             "bg_inverse": "omatsuri_light",
-            "remote_dl": false,
+            "remote_dl": true,
             "world_unlock": true,
             "date": 1572048000,
             "version": "2.4",
@@ -15710,7 +15734,7 @@
             "side": 1,
             "bg": "prelude_conflict",
             "bg_inverse": "prelude_light",
-            "remote_dl": false,
+            "remote_dl": true,
             "world_unlock": true,
             "date": 1645056002,
             "version": "3.12",
@@ -15949,7 +15973,7 @@
             "side": 0,
             "bg": "alice_light",
             "bg_inverse": "alice_conflict",
-            "remote_dl": false,
+            "remote_dl": true,
             "world_unlock": true,
             "date": 1645056000,
             "version": "3.12",
@@ -16138,7 +16162,7 @@
             "side": 0,
             "bg": "nijuusei2_light",
             "bg_inverse": "nijuusei2_conflict",
-            "remote_dl": false,
+            "remote_dl": true,
             "world_unlock": true,
             "date": 1647993601,
             "version": "3.12",
@@ -16457,7 +16481,7 @@
             "side": 0,
             "bg": "alice_light",
             "bg_inverse": "alice_conflict",
-            "remote_dl": false,
+            "remote_dl": true,
             "world_unlock": true,
             "date": 1651104004,
             "version": "3.12",
@@ -16576,7 +16600,7 @@
             "side": 0,
             "bg": "alice_light",
             "bg_inverse": "alice_conflict",
-            "remote_dl": false,
+            "remote_dl": true,
             "world_unlock": true,
             "date": 1653436802,
             "version": "3.12",
@@ -16638,7 +16662,7 @@
             "side": 0,
             "bg": "nijuusei2_light",
             "bg_inverse": "nijuusei2_conflict",
-            "remote_dl": false,
+            "remote_dl": true,
             "world_unlock": true,
             "date": 1657152000,
             "version": "4.0",
@@ -16698,7 +16722,7 @@
             "side": 0,
             "bg": "prelude_light",
             "bg_inverse": "prelude_conflict",
-            "remote_dl": false,
+            "remote_dl": true,
             "world_unlock": true,
             "date": 1657152001,
             "version": "4.0",
@@ -16756,7 +16780,7 @@
             "side": 1,
             "bg": "prelude_conflict",
             "bg_inverse": "prelude_light",
-            "remote_dl": false,
+            "remote_dl": true,
             "world_unlock": true,
             "date": 1657152002,
             "version": "4.0",
@@ -21266,6 +21290,559 @@
                     "rating": 9,
                     "ratingPlus": true
                 }
+            ]
+        },
+        {
+            "idx": 344,
+            "id": "remindthesouls",
+            "title_localized": {
+                "en": "Remind the Souls (Short Version)"
+            },
+            "artist": "Nhato",
+            "search_title": {
+                "ja": [
+                    "りまいんどざそうるす"
+                ],
+                "ko": [
+                    "리마인드 더 소울즈"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "なはと"
+                ],
+                "ko": [
+                    "나하토"
+                ]
+            },
+            "bpm": "130",
+            "bpm_base": 130,
+            "set": "base",
+            "purchase": "",
+            "audioPreview": 27962,
+            "audioPreviewEnd": 64615,
+            "side": 0,
+            "bg": "hime_light",
+            "bg_inverse": "hime_conflict",
+            "remote_dl": false,
+            "world_unlock": false,
+            "date": 1695772800,
+            "version": "5.0",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Nitro",
+                    "jacketDesigner": "",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Nitro",
+                    "jacketDesigner": "",
+                    "rating": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Nitro",
+                    "jacketDesigner": "",
+                    "rating": 9
+                }
+            ]
+        },
+        {
+            "idx": 345,
+            "id": "dynitikos",
+            "title_localized": {
+                "en": "Dynitikós"
+            },
+            "artist": "Prower",
+            "search_title": {
+                "en": [
+                    "dynitikos"
+                ],
+                "ja": [
+                    "でぃにてぃこす",
+                    "でぃにてぃこーす"
+                ],
+                "ko": [
+                    "디니티코스"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "ぷらわー"
+                ],
+                "ko": [
+                    "프라우어",
+                    "프로워"
+                ]
+            },
+            "bpm": "180",
+            "bpm_base": 180,
+            "set": "extend_2",
+            "purchase": "extend_2",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "nijuusei2_conflict",
+            "bg_inverse": "nijuusei2_light",
+            "remote_dl": true,
+            "world_unlock": true,
+            "date": 1695772801,
+            "version": "5.0",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Exschwasión",
+                    "jacketDesigner": "AT基調",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Exschwasión",
+                    "jacketDesigner": "AT基調",
+                    "rating": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Exschwasión",
+                    "jacketDesigner": "AT基調",
+                    "rating": 9
+                }
+            ]
+        },
+        {
+            "idx": 346,
+            "id": "amekagura",
+            "title_localized": {
+                "en": "Amekagura",
+                "ja": "雨神楽"
+            },
+            "artist": "荒谷サトル",
+            "search_title": {
+                "ja": [
+                    "あめかぐら"
+                ],
+                "ko": [
+                    "아메카구라",
+                    "우신락",
+                    "우신낙"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "satoru aratani"
+                ],
+                "ja": [
+                    "あらたにさとる"
+                ],
+                "ko": [
+                    "아라타니 사토루"
+                ]
+            },
+            "bpm": "105",
+            "bpm_base": 210,
+            "set": "extend_2",
+            "purchase": "extend_2",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "omatsuri_light",
+            "bg_inverse": "omatsuri_conflict",
+            "remote_dl": true,
+            "world_unlock": true,
+            "date": 1695772802,
+            "version": "5.0",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "antymis",
+                    "jacketDesigner": "英エイスト",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "antymis",
+                    "jacketDesigner": "英エイスト",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "antymis",
+                    "jacketDesigner": "英エイスト",
+                    "rating": 9,
+                    "ratingPlus": true
+                }
+            ]
+        },
+        {
+            "idx": 347,
+            "id": "bbkkbkk",
+            "title_localized": {
+                "en": "B.B.K.K.B.K.K."
+            },
+            "artist": "nora2r",
+            "search_title": {
+                "en": [
+                    "bbkkbkk"
+                ],
+                "ja": [
+                    "びーびーけーけーびーけーけー"
+                ],
+                "ko": [
+                    "비비케이케이비비케이케이"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "のらつーあーる"
+                ],
+                "ko": [
+                    "노라 투 알"
+                ]
+            },
+            "bpm": "170",
+            "bpm_base": 170,
+            "set": "single",
+            "purchase": "bbkkbkk",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "single2_conflict",
+            "bg_inverse": "single2_light",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1695772803,
+            "version": "5.0",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "E.E.X.X.E.X.X.",
+                    "jacketDesigner": "",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "E.E.X.X.E.X.X.",
+                    "jacketDesigner": "",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "E.E.X.X.E.X.X.",
+                    "jacketDesigner": "",
+                    "rating": 9,
+                    "ratingPlus": true
+                }
+            ]
+        },
+        {
+            "idx": 348,
+            "id": "primevaltexture",
+            "title_localized": {
+                "en": "Primeval Texture"
+            },
+            "artist": "くるぶっこちゃん",
+            "search_title": {
+                "ja": [
+                    "ぷらいみーばるてくすちゃ",
+                    "ぷらいみーゔぁるてくすちゃ",
+                    "ぷらいみばるてくすちゃ",
+                    "ぷらいみゔぁるてくすちゃ"
+                ],
+                "ko": [
+                    "프라이미벌 텍스쳐"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "kurubukkochan"
+                ],
+                "ko": [
+                    "쿠루봇코쨩",
+                    "쿠루보코쨩",
+                    "쿠루봇코짱",
+                    "쿠루보코짱"
+                ]
+            },
+            "bpm": "120",
+            "bpm_base": 120,
+            "set": "eden_append_1",
+            "purchase": "eden_append_1",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "eden_append_light",
+            "bg_inverse": "eden_append_conflict",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1695772804,
+            "version": "5.0",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "CERiNG",
+                    "jacketDesigner": "LOWRISE",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "CERiNG",
+                    "jacketDesigner": "LOWRISE",
+                    "rating": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "CERiNG",
+                    "jacketDesigner": "LOWRISE",
+                    "rating": 9
+                }
+            ]
+        },
+        {
+            "idx": 349,
+            "id": "technicolour",
+            "title_localized": {
+                "en": "Technicolour"
+            },
+            "artist": "Maozon",
+            "search_title": {
+                "ja": [
+                    "てくにからー"
+                ],
+                "ko": [
+                    "테크니컬러"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "まおぞん"
+                ],
+                "ko": [
+                    "마오존"
+                ]
+            },
+            "bpm": "175",
+            "bpm_base": 175,
+            "set": "eden_append_1",
+            "purchase": "eden_append_1",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "eden_append_light",
+            "bg_inverse": "eden_append_conflict",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1695772805,
+            "version": "5.0",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "KLMNOP",
+                    "jacketDesigner": "Keizou",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "KLMNOP",
+                    "jacketDesigner": "Keizou",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "KLMNOP",
+                    "jacketDesigner": "Keizou",
+                    "rating": 9,
+                    "ratingPlus": true
+                }
+            ]
+        },
+        {
+            "idx": 350,
+            "id": "logos",
+            "title_localized": {
+                "en": "Logos"
+            },
+            "artist": "polysha feat. 高城みよ",
+            "search_title": {
+                "ja": [
+                    "ろごす"
+                ],
+                "ko": [
+                    "로고스"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "miyo takashiro"
+                ],
+                "ja": [
+                    "ぽりしゃ",
+                    "たかしろみよ"
+                ],
+                "ko": [
+                    "폴리샤",
+                    "타카시로 미요"
+                ]
+            },
+            "bpm": "189",
+            "bpm_base": 189,
+            "set": "eden_append_1",
+            "purchase": "eden_append_1",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "eden_append_conflict",
+            "bg_inverse": "eden_append_light",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1695772806,
+            "version": "5.0",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "絶滅",
+                    "jacketDesigner": "majamari",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "絶滅",
+                    "jacketDesigner": "majamari",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "絶滅",
+                    "jacketDesigner": "majamari",
+                    "rating": 10
+                }
+            ]
+        },
+        {
+            "idx": 351,
+            "id": "egoeimi",
+            "title_localized": {
+                "en": "Ego Eimi"
+            },
+            "artist": "BlackY feat. Risa Yuzuki",
+            "search_title": {
+                "ja": [
+                    "えごえいみ",
+                    "えごーえいみ"
+                ],
+                "ko": [
+                    "에고 에이미"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "ぶらっきー",
+                    "りさゆずき"
+                ],
+                "ko": [
+                    "블래키",
+                    "블랙키",
+                    "리사 유즈키"
+                ]
+            },
+            "bpm": "178",
+            "bpm_base": 178,
+            "set": "eden_append_1",
+            "purchase": "eden_append_1",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "eden_append_conflict",
+            "bg_inverse": "eden_append_light",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1695772807,
+            "version": "5.0",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "東星",
+                    "jacketDesigner": "Khronetic - At the Horizon",
+                    "rating": 5
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "東星",
+                    "jacketDesigner": "Khronetic - At the Horizon",
+                    "rating": 8
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "東星",
+                    "jacketDesigner": "Khronetic - At the Horizon",
+                    "rating": 10
+                }
+            ]
+        },
+        {
+            "idx": 352,
+            "id": "arghena",
+            "title_localized": {
+                "en": "Arghena"
+            },
+            "artist": "Feryquitous vs Laur",
+            "search_title": {
+                "ja": [
+                    "あーげな",
+                    "あげな"
+                ],
+                "ko": [
+                    "아르게나",
+                    "아게나"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "ふぇりきたす",
+                    "らうる"
+                ],
+                "ko": [
+                    "페리퀴토스",
+                    "라우르"
+                ]
+            },
+            "bpm": "185",
+            "bpm_base": 185,
+            "set": "eden_append_1",
+            "purchase": "eden_append_1",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "arghena",
+            "bg_inverse": "arghena",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1695772808,
+            "version": "5.0",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "第一識 \"Reality\"",
+                    "jacketDesigner": "すずなし",
+                    "rating": 6
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "第二識 \"Causality\"",
+                    "jacketDesigner": "すずなし",
+                    "rating": 9
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "第三識 \"Pluriversality\"",
+                    "jacketDesigner": "すずなし",
+                    "rating": 11
+                }
+            ],
+            "additional_files": [
+                {"file_name": "video_720.mp4", "requirement": "low_res"},
+                {"file_name": "video_1080.mp4", "requirement": "hi_res"}
             ]
         }
     ]

@@ -4677,6 +4677,157 @@
           "credit": 1000
         }
       ]
+    },
+    {
+      "songId": "remindthesouls",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 60
+        }
+      ]
+    },
+    {
+      "songId": "remindthesouls",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 280
+        }
+      ]
+    },
+    {
+      "songId": "egoeimi",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    },
+    {
+      "songId": "egoeimi",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "primevaltexture",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "technicolour",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "logos",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    },
+    {
+      "songId": "arghena",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 108
+        },
+        {
+          "type": 109,
+          "index": 0,
+          "difficulty": 0
+        },
+        {
+          "type": 109,
+          "index": 1,
+          "difficulty": 0
+        },
+        {
+          "type": 109,
+          "index": 2,
+          "difficulty": 0
+        },
+        {
+          "type": 103,
+          "id": 71
+        },
+        {
+          "type": 110
+        }
+      ]
+    },
+    {
+      "songId": "arghena",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 108
+        },
+        {
+          "type": 109,
+          "index": 0,
+          "difficulty": 1
+        },
+        {
+          "type": 109,
+          "index": 1,
+          "difficulty": 1
+        },
+        {
+          "type": 109,
+          "index": 2,
+          "difficulty": 1
+        },
+        {
+          "type": 103,
+          "id": 71
+        },
+        {
+          "type": 110
+        }
+      ]
+    },
+    {
+      "songId": "arghena",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 108
+        },
+        {
+          "type": 109,
+          "index": 0,
+          "difficulty": 2
+        },
+        {
+          "type": 109,
+          "index": 1,
+          "difficulty": 2
+        },
+        {
+          "type": 109,
+          "index": 2,
+          "difficulty": 2
+        },
+        {
+          "type": 103,
+          "id": 71
+        },
+        {
+          "type": 110
+        }
+      ]
     }
   ]
 }

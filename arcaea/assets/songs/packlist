@@ -2,6 +2,7 @@
   "packs": [
     {
       "id": "extend",
+      "section": "archive",
       "is_extend_pack": true,
       "is_active_extend_pack": false,
       "custom_banner": true,
@@ -20,6 +21,7 @@
     },
     {
       "id": "base",
+      "section": "free",
       "plus_character": -1,
       "custom_banner": true,
       "cutout_pack_image": true,
@@ -33,6 +35,7 @@
     },
     {
       "id": "extend_2",
+      "section": "free",
       "is_extend_pack": true,
       "is_active_extend_pack": true,
       "custom_banner": true,
@@ -51,6 +54,7 @@
     },
     {
       "id": "epilogue",
+      "section": "mainstory",
       "plus_character": -1,
       "name_localized": {
         "en": "Silent Answer"
@@ -66,6 +70,7 @@
     },
     {
       "id": "finale",
+      "section": "mainstory",
       "plus_character": -1,
       "name_localized": {
         "en": "Final Verdict"
@@ -80,6 +85,7 @@
     },
     {
       "id": "vs",
+      "section": "mainstory",
       "plus_character": -1,
       "name_localized": {
         "en": "Black Fate"
@@ -94,6 +100,7 @@
     },
     {
       "id": "prelude",
+      "section": "mainstory",
       "plus_character": -1,
       "name_localized": {
         "en": "Adverse Prelude"
@@ -108,6 +115,7 @@
     },
     {
       "id": "rei",
+      "section": "mainstory",
       "plus_character": 14,
       "name_localized": {
         "en": "Luminous Sky"
@@ -122,6 +130,7 @@
     },
     {
       "id": "yugamu",
+      "section": "mainstory",
       "plus_character": 6,
       "name_localized": {
         "en": "Vicious Labyrinth"
@@ -136,6 +145,7 @@
     },
     {
       "id": "core",
+      "section": "mainstory",
       "plus_character": -1,
       "name_localized": {
         "en": "Eternal Core"
@@ -150,6 +160,7 @@
     },
     {
       "id": "eden",
+      "section": "sidestory",
       "plus_character": 71,
       "custom_banner": true,
       "name_localized": {
@@ -164,7 +175,24 @@
       }
     },
     {
+      "id": "eden_append_1",
+      "section": "sidestory",
+      "pack_parent": "eden",
+      "plus_character": -1,
+      "name_localized": {
+        "en": "Lasting Eden Chapter 2"
+      },
+      "description_localized": {
+        "en": "Winds cast away the dust of strife and tragedy,\nand in this storm, a voice calls down:\nArcaea will change.\n\n5 more songs from the \"Imagining After\" contest\nawait in this addition to the Lasting Eden Pack as\nyou come to find her, and rain begins to fall...",
+        "ja": "かつての奮戦と悲劇、その名残さえ風は攫って。\n嵐が来る、嵐が来る……Arcaeaは、改竄される。\n\n楽曲コンテスト『Imagining After』より、\n5つの楽曲がLasting Edenに追加！\n\n……あなたは来た。そして今、雨は降る――。",
+        "ko": "세차게 부는 바람이, 갈등과 비극의 모래를 날려보냅니다.\n휘몰아치는 폭풍 사이로 들려오는 목소리가 전합니다.\n아르케아가 변할 것이라고.\n\n\"Imagining After\" 컨테스트 우승곡 5개가 수록된\nLasting Eden 팩의 속편.\n쏟아지는 비 사이로, 그녀를 찾아온 당신...",
+        "zh-Hant": "風吹散了紛爭與悲劇的塵埃，\n於這場風暴之中，一個聲音呼喚著：\nArcaea將會改變。\n\n五首Imagining After大賽的優勝曲目等待著你。\n她，也一樣。天空落下了她的「眼淚」，\nLasting Eden的Pack Append之旅，緩緩啓程……",
+        "zh-Hans": "风吹散了纷争与悲剧的尘埃，\n于这场风暴之中，一个声音呼唤着：\nArcaea将会改变。\n\n五首Imagining After大赛的优胜曲目等待着你。\n她，也一样。天空落下了她的\"眼泪\"，\nLasting Eden的Pack Append之旅，缓缓启程……"
+      }
+    },
+    {
       "id": "observer",
+      "section": "sidestory",
       "plus_character": 45,
       "custom_banner": true,
       "name_localized": {
@@ -180,6 +208,7 @@
     },
     {
       "id": "observer_append_1",
+      "section": "sidestory",
       "pack_parent": "observer",
       "plus_character": -1,
       "name_localized": {
@@ -195,6 +224,7 @@
     },
     {
       "id": "observer_append_2",
+      "section": "sidestory",
       "pack_parent": "observer",
       "plus_character": -1,
       "name_localized": {
@@ -210,6 +240,7 @@
     },
     {
       "id": "dividedheart",
+      "section": "sidestory",
       "plus_character": 99,
       "name_localized": {
         "en": "Divided Heart"
@@ -224,6 +255,7 @@
     },
     {
       "id": "alice",
+      "section": "sidestory",
       "plus_character": 39,
       "name_localized": {
         "en": "Ephemeral Page"
@@ -238,6 +270,7 @@
     },
     {
       "id": "alice_append_1",
+      "section": "sidestory",
       "pack_parent": "alice",
       "plus_character": -1,
       "name_localized": {
@@ -253,6 +286,7 @@
     },
     {
       "id": "omatsuri",
+      "section": "sidestory",
       "custom_banner": true,
       "plus_character": 30,
       "name_localized": {
@@ -268,6 +302,7 @@
     },
     {
       "id": "zettai",
+      "section": "sidestory",
       "plus_character": 23,
       "name_localized": {
         "en": "Absolute Reason"
@@ -282,6 +317,7 @@
     },
     {
       "id": "nijuusei",
+      "section": "sidestory",
       "plus_character": 11,
       "name_localized": {
         "en": "Binary Enfold"
@@ -296,6 +332,7 @@
     },
     {
       "id": "nijuusei_append_1",
+      "section": "sidestory",
       "pack_parent": "nijuusei",
       "plus_character": -1,
       "name_localized": {
@@ -311,6 +348,7 @@
     },
     {
       "id": "mirai",
+      "section": "sidestory",
       "plus_character": 4,
       "name_localized": {
         "en": "Ambivalent Vision"
@@ -325,6 +363,7 @@
     },
     {
       "id": "shiawase",
+      "section": "sidestory",
       "plus_character": 2,
       "name_localized": {
         "en": "Crimson Solace"
@@ -339,6 +378,7 @@
     },
     {
       "id": "cytusii",
+      "section": "collab",
       "custom_banner": true,
       "plus_character": 69,
       "name_localized": {
@@ -354,6 +394,7 @@
     },
     {
       "id": "cytusii_append_1",
+      "section": "collab",
       "pack_parent": "cytusii",
       "plus_character": -1,
       "name_localized": {
@@ -369,6 +410,7 @@
     },
     {
       "id": "musedash",
+      "section": "collab",
       "custom_banner": true,
       "plus_character": 53,
       "name_localized": {
@@ -384,6 +426,7 @@
     },
     {
       "id": "wacca",
+      "section": "collab",
       "custom_banner": true,
       "plus_character": 48,
       "name_localized": {
@@ -399,6 +442,7 @@
     },
     {
       "id": "maimai",
+      "section": "collab",
       "custom_banner": true,
       "plus_character": -1,
       "name_localized": {
@@ -414,6 +458,7 @@
     },
     {
       "id": "maimai_append_1",
+      "section": "collab",
       "pack_parent": "maimai",
       "plus_character": -1,
       "name_localized": {
@@ -429,6 +474,7 @@
     },
     {
       "id": "ongeki",
+      "section": "collab",
       "custom_banner": true,
       "plus_character": 40,
       "name_localized": {
@@ -444,6 +490,7 @@
     },
     {
       "id": "ongeki_append_1",
+      "section": "collab",
       "pack_parent": "ongeki",
       "plus_character": -1,
       "name_localized": {
@@ -459,6 +506,7 @@
     },
     {
       "id": "chunithm",
+      "section": "collab",
       "custom_banner": true,
       "plus_character": 24,
       "name_localized": {
@@ -474,6 +522,7 @@
     },
     {
       "id": "chunithm_append_1",
+      "section": "collab",
       "pack_parent": "chunithm",
       "plus_character": -1,
       "name_localized": {
@@ -489,6 +538,7 @@
     },
     {
       "id": "chunithm_append_2",
+      "section": "collab",
       "pack_parent": "chunithm",
       "plus_character": -1,
       "name_localized": {
@@ -504,6 +554,7 @@
     },
     {
       "id": "groovecoaster",
+      "section": "collab",
       "custom_banner": true,
       "plus_character": 22,
       "name_localized": {
@@ -519,6 +570,7 @@
     },
     {
       "id": "tonesphere",
+      "section": "collab",
       "custom_banner": true,
       "plus_character": 18,
       "name_localized": {
@@ -535,6 +587,7 @@
     ,
     {
       "id": "lanota",
+      "section": "collab",
       "custom_banner": true,
       "plus_character": 9,
       "name_localized": {
@@ -550,6 +603,7 @@
     },
     {
       "id": "lanota_append_1",
+      "section": "collab",
       "pack_parent": "lanota",
       "plus_character": -1,
       "name_localized": {
@@ -565,6 +619,7 @@
     },
     {
       "id": "dynamix",
+      "section": "collab",
       "custom_banner": true,
       "plus_character": 3,
       "name_localized": {
