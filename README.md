@@ -2,7 +2,7 @@
 
 Use Github Action To Update Arcaea Resource, url from Lowiro WebAPI.
 
-* Warning: Lowiro API may not work due to their firewall Policy, maybe you can input the url directly.
+* Warning: Lowiro API may not work during their firewall Policy, maybe you can input the url directly.
 
 * Or You can use the link from "616.sb", maybe That work().
 
@@ -24,6 +24,6 @@ In China You can try : https://ghproxy.com/raw.githubusercontent.com/MoYoez/Arca
 ## Update Log:
 
 
-* Last Update: 2023-10-19 08:37:10
+* Last Update: 2023-10-19 17:43:56
 
 * Version: 5.0.5c
