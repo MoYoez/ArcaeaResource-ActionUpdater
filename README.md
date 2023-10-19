@@ -2,7 +2,7 @@
 
 Use Github Action To Update Arcaea Resource, url from Lowiro WebAPI.
 
-* Warning: Lowiro API may not work during their firewall Policy, maybe you can input the url directly.
+* Warning: Lowiro API may not work due to their firewall Policy, maybe you can input the url directly.
 
 * Or You can use the link from "616.sb", maybe That work().
 
