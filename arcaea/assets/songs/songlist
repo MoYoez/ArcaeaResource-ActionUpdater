@@ -21319,7 +21319,7 @@
             "bpm_base": 130,
             "set": "base",
             "purchase": "",
-            "audioPreview": 27962,
+            "audioPreview": 27692,
             "audioPreviewEnd": 64615,
             "side": 0,
             "bg": "hime_light",
@@ -21843,6 +21843,253 @@
             "additional_files": [
                 {"file_name": "video_720.mp4", "requirement": "low_res"},
                 {"file_name": "video_1080.mp4", "requirement": "hi_res"}
+            ]
+        },
+        {
+            "idx": 353,
+            "id": "fantasy",
+            "title_localized": {
+                "en": "FANTA5Y"
+            },
+            "artist": "Moon Jelly & YUKIYANAGI",
+            "search_title": {
+                "en": [
+                    "fantasy"
+                ],
+                "ja": [
+                    "ふぁんたじー"
+                ],
+                "ko": [
+                    "판타지"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "むーんじぇりー",
+                    "ゆきやなぎ"
+                ],
+                "ko": [
+                    "문 젤리",
+                    "유키야나기"
+                ]
+            },
+            "bpm": "170",
+            "bpm_base": 170,
+            "set": "extend_2",
+            "purchase": "extend_2",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "hime_light",
+            "bg_inverse": "hime_conflict",
+            "remote_dl": true,
+            "world_unlock": true,
+            "date": 1698278400,
+            "version": "5.1",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "TOA5TIE",
+                    "jacketDesigner": "nep",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "TOA5TIE",
+                    "jacketDesigner": "nep",
+                    "rating": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "TOA5TIE",
+                    "jacketDesigner": "nep",
+                    "rating": 9
+                }
+            ]
+        },
+        {
+            "idx": 354,
+            "id": "transientspace",
+            "title_localized": {
+                "en": "Transient Space"
+            },
+            "artist": "sleepless, Gardens, aspect",
+            "search_title": {
+                "ja": [
+                    "とらんしえんとすぺーす"
+                ],
+                "ko": [
+                    "트랜시언트 스페이스",
+                    "트랜지언트 스페이스"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "すりーぷれす",
+                    "がーでんず",
+                    "あすぺくと"
+                ],
+                "ko": [
+                    "슬립리스",
+                    "가든즈",
+                    "가든스",
+                    "에스펙트",
+                    "어스펙트"
+                ]
+            },
+            "bpm": "115-132",
+            "bpm_base": 132,
+            "set": "eden_append_2",
+            "purchase": "eden_append_2",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "eden_append_conflict",
+            "bg_inverse": "eden_append_light",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1698278401,
+            "version": "5.1",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "CERiNG -liminal-",
+                    "jacketDesigner": "PAZZi",
+                    "rating": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "CERiNG -liminal-",
+                    "jacketDesigner": "PAZZi",
+                    "rating": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "CERiNG -liminal-",
+                    "jacketDesigner": "PAZZi",
+                    "rating": 9
+                }
+            ]
+        },
+        {
+            "idx": 355,
+            "id": "namelesspassion",
+            "title_localized": {
+                "en": "Nameless Passion"
+            },
+            "artist": "天束 feat.Sennzai",
+            "search_title": {
+                "ja": [
+                    "ねーむれすぱっしょん"
+                ],
+                "ko": [
+                    "네임리스 패션"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "amatsuka"
+                ],
+                "ja": [
+                    "あまつか",
+                    "せんざい"
+                ],
+                "ko": [
+                    "아마츠카",
+                    "센자이"
+                ]
+            },
+            "bpm": "200",
+            "bpm_base": 200,
+            "set": "eden_append_2",
+            "purchase": "eden_append_2",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "eden_append_conflict",
+            "bg_inverse": "eden_append_light",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1698278402,
+            "version": "5.1",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Luxance",
+                    "jacketDesigner": "こたろう",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Luxance",
+                    "jacketDesigner": "こたろう",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Luxance",
+                    "jacketDesigner": "こたろう",
+                    "rating": 9,
+                    "ratingPlus": true
+                }
+            ]
+        },
+        {
+            "idx": 356,
+            "id": "teravolt",
+            "title_localized": {
+                "en": "TeraVolt"
+            },
+            "artist": "Katali",
+            "search_title": {
+                "ja": [
+                    "てらぼると"
+                ],
+                "ko": [
+                    "테라볼트"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "かたり"
+                ],
+                "ko": [
+                    "카타리"
+                ]
+            },
+            "bpm": "154",
+            "bpm_base": 154,
+            "set": "eden_append_2",
+            "purchase": "eden_append_2",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "eden_append_conflict",
+            "bg_inverse": "eden_append_light",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1698278403,
+            "version": "5.1",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "夜浪",
+                    "jacketDesigner": "hiro",
+                    "rating": 5
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "夜浪",
+                    "jacketDesigner": "hiro",
+                    "rating": 8
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "超東星 × 雷夜浪",
+                    "jacketDesigner": "hiro",
+                    "rating": 10,
+                    "ratingPlus": true
+                }
             ]
         }
     ]

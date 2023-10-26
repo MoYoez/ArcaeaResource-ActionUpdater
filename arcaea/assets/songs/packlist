@@ -191,6 +191,22 @@
       }
     },
     {
+      "id": "eden_append_2",
+      "section": "sidestory",
+      "pack_parent": "eden",
+      "plus_character": -1,
+      "name_localized": {
+        "en": "Shifting Veil"
+      },
+      "description_localized": {
+        "en": "Not a single soul could have predicted this truth.\nThe truth is what befell.\nWhat it entails yet remains shrouded.\n\nFind 3 more songs in this addition to\nLasting Eden, all winning entries of\nthe \"Imagining After\" Song Contest.",
+        "ja": "誰も予期などしなかった。誰も防げはしなかった。\nただ、降り掛かった現実だけが真実で。\n\n――待つモノは、ただ、未知数。\n\n『Lasting Eden』に加わる新たな音色、\n『Imagining After』の入賞曲3つが追加。",
+        "ko": "그 누구도 예상하지 못했던 진실이 불러올 파동은\n아직 장막의 너머에...\n\nLasting Eden의 Pack Append로, \"Imagining After\"\n컨테스트 우승곡 3개가 찾아옵니다. ",
+        "zh-Hant": "此般真相，無人能料。\n降臨於此的，便是真相。\n但真相昭示著的，仍為未知。\n\nImagining After大賽的另三首優勝曲目，\n現已加入Lasting Eden。",
+        "zh-Hans": "此般真相，无人能料。\n降临于此的，便是真相。\n但真相昭示着的，仍为未知。\n\nImagining After大赛的另三首优胜曲目，\n现已加入Lasting Eden。"
+      }
+    },
+    {
       "id": "observer",
       "section": "sidestory",
       "plus_character": 45,

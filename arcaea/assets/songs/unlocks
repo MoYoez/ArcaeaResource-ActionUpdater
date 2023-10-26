@@ -4829,5 +4829,51 @@
         }
       ]
     }
+    ,
+    {
+      "songId": "teravolt",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "transientspace",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "namelesspassion",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "teravolt",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "transientspace",
+          "song_difficulty": 2,
+          "grade": 3
+        },
+        {
+          "type": 1,
+          "song_id": "namelesspassion",
+          "song_difficulty": 2,
+          "grade": 3
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    }
   ]
 }
