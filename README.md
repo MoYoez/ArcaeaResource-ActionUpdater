@@ -14,16 +14,18 @@ You can try to download the assets without being updated by using Arcaea-updater
 
 Directly Link : https://moyoez.github.io/ArcaeaResource-ActionUpdater/arcaea/assets/
 
+or try this one (From Vercel): https://arc.lemonkoi.one
+
 > args : char | songs | img (game resource)
 
 * It gets from Raw Arcaea File,so Please make sure the "dl_" is existed when handling data. 
 
-In China You can try : https://ghproxy.com/raw.githubusercontent.com/MoYoez/ArcaeaResource-ActionUpdater/main/arcaea/assets/
+In China You can try : https://ghproxy.net/raw.githubusercontent.com/MoYoez/ArcaeaResource-ActionUpdater/main/arcaea/assets/
 
 
 ## Update Log:
 
 
-* Last Update: 2023-11-21 08:40:19
+* Last Update: 2023-11-21 13:38:56
 
 * Version: 5.1.3c
