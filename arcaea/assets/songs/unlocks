@@ -4875,5 +4875,119 @@
         }
       ]
     }
+	,
+	{
+      "songId": "xtreme",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "xtreme",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "stratoliner",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "ouverture",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    }
+	,
+	{
+      "songId": "edenwacca",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 50
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "edenwacca",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "stratoliner",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "ouverture",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 150
+        }
+      ]
+    }
+	,
+	{
+      "songId": "metamysteria",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "xtreme",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "edenwacca",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "metamysteria",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "xtreme",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 1,
+          "song_id": "edenwacca",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 180
+        }
+      ]
+    }
   ]
 }

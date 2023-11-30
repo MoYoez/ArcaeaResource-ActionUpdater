@@ -22091,6 +22091,446 @@
                     "ratingPlus": true
                 }
             ]
+        },
+        {
+            "idx": 357,
+            "id": "stratoliner",
+            "title_localized": {
+                "en": "Stratoliner"
+            },
+            "artist": "C-Show",
+            "search_title": {
+                "ja": [
+                    "すとらとらいなー"
+                ],
+                "ko": [
+                    "스트라토라이너"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "ししょう"
+                ],
+                "ko": [
+                    "시쇼"
+                ]
+            },
+            "bpm": "175",
+            "bpm_base": 175,
+            "set": "wacca_append_1",
+            "purchase": "wacca_append_1",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "wacca_conflict",
+            "bg_inverse": "wacca_light",
+            "remote_dl": true,
+            "source_copyright": "©Marvelous Inc. / Supported by HARDCORE TANO*C",
+            "world_unlock": false,
+            "date": 1701302400,
+            "version": "5.2",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Exschwasion",
+                    "jacketDesigner": "",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Exschwasion",
+                    "jacketDesigner": "",
+                    "rating": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Exschwasion",
+                    "jacketDesigner": "",
+                    "rating": 9
+                }
+            ]
+        },
+        {
+            "idx": 358,
+            "id": "ouverture",
+            "title_localized": {
+                "en": "Ouvertüre"
+            },
+            "artist": "USAO & DJ Genki feat. ルーン(CV:河瀬茉希)",
+            "search_title": {
+                "en": [
+                    "Ouverture"
+                ],
+                "ja": [
+                    "おばーちゅあ"
+                ],
+                "ko": [
+                    "오버쳐"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "luin",
+                    "maki kawase"
+                ],
+                "ja": [
+                    "うさお",
+                    "でぃーじぇーげんき",
+                    "でぃーじぇいげんき",
+                    "かわせまき"
+                ],
+                "ko": [
+                    "우사오",
+                    "디제이 겐키",
+                    "룬",
+                    "카와세 마키"
+                ]
+            },
+            "bpm": "200",
+            "bpm_base": 200,
+            "set": "wacca_append_1",
+            "purchase": "wacca_append_1",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "wacca_conflict",
+            "bg_inverse": "wacca_light",
+            "remote_dl": true,
+            "source_copyright": "©Marvelous Inc. / Supported by HARDCORE TANO*C",
+            "world_unlock": false,
+            "date": 1701302401,
+            "version": "5.2",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "るくあんす",
+                    "jacketDesigner": "",
+                    "rating": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "るくあんす",
+                    "jacketDesigner": "",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "るくあんす",
+                    "jacketDesigner": "",
+                    "rating": 9,
+                    "ratingPlus": true
+                }
+            ]
+        },
+        {
+            "idx": 359,
+            "id": "xtreme",
+            "title_localized": {
+                "en": "XTREME"
+            },
+            "artist": "USAO",
+            "search_title": {
+                "ja": [
+                    "えくすとりーむ"
+                ],
+                "ko": [
+                    "익스트림",
+                    "엑스트림"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "うさお"
+                ],
+                "ko": [
+                    "우사오"
+                ]
+            },
+            "bpm": "205",
+            "bpm_base": 205,
+            "set": "wacca_append_1",
+            "purchase": "wacca_append_1",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "wacca_conflict",
+            "bg_inverse": "wacca_light",
+            "remote_dl": true,
+            "source_copyright": "©Marvelous Inc. / Supported by HARDCORE TANO*C",
+            "world_unlock": false,
+            "date": 1701302402,
+            "version": "5.2",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "絶滅",
+                    "jacketDesigner": "",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "絶滅",
+                    "jacketDesigner": "",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "絶滅",
+                    "jacketDesigner": "",
+                    "rating": 10
+                }
+            ]
+        },
+        {
+            "idx": 360,
+            "id": "edenwacca",
+            "title_localized": {
+                "en": "eden"
+            },
+            "artist": "\"漆黒\"の堕天使《Gram》†Versus†\"聖刻\"の熾天使《Gram》",
+            "search_title": {
+                "ja": [
+                    "えでん"
+                ],
+                "ko": [
+                    "에덴"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "shikkoku no datenshi",
+                    "seikoku no shitenshi"
+                ],
+                "ja": [
+                    "しっこくのだてんしぐらむ",
+                    "せいこくのしてんしぐらむ"
+                ],
+                "ko": [
+                    "싯코쿠노 다텐시 그라무",
+                    "세이코쿠노 시텐시 그라무",
+                    "칠흑의 타천사 그람",
+                    "성각의 치천사 그람",
+                    "칠흑의 타천사 그램",
+                    "성각의 치천사 그램"
+                ]
+            },
+            "bpm": "246",
+            "bpm_base": 246,
+            "set": "wacca_append_1",
+            "purchase": "wacca_append_1",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "wacca_conflict",
+            "bg_inverse": "wacca_light",
+            "remote_dl": true,
+            "source_copyright": "©Marvelous Inc. / Supported by HARDCORE TANO*C",
+            "world_unlock": false,
+            "date": 1701302403,
+            "version": "5.2",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "反水",
+                    "jacketDesigner": "",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "反水",
+                    "jacketDesigner": "",
+                    "rating": 8
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "反水",
+                    "jacketDesigner": "",
+                    "rating": 10
+                }
+            ]
+        },
+        {
+            "idx": 361,
+            "id": "metamysteria",
+            "title_localized": {
+                "en": "Meta-Mysteria"
+            },
+            "artist": "DJ Noriken",
+            "search_title": {
+                "ja": [
+                    "めたみすてりあ"
+                ],
+                "ko": [
+                    "메타 미스테리아"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "でぃーじぇーのりけん",
+                    "でぃーじぇいのりけん"
+                ],
+                "ko": [
+                    "디제이 노리켄"
+                ]
+            },
+            "bpm": "205",
+            "bpm_base": 205,
+            "set": "wacca_append_1",
+            "purchase": "wacca_append_1",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "meta_mysteria",
+            "bg_inverse": "meta_mysteria",
+            "remote_dl": true,
+            "source_copyright": "©Marvelous Inc. / Supported by HARDCORE TANO*C",
+            "world_unlock": false,
+            "date": 1701302404,
+            "version": "5.2",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "夜浪",
+                    "jacketDesigner": "Taiyo Yamamoto",
+                    "rating": 5
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "夜浪",
+                    "jacketDesigner": "Taiyo Yamamoto",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "VII: THE CHARIOT/夜浪",
+                    "jacketDesigner": "Taiyo Yamamoto",
+                    "rating": 10,
+                    "ratingPlus": true
+                }
+            ]
+        },
+        {
+            "idx": 362,
+            "id": "aloneandlorn",
+            "title_localized": {
+                "en": "Alone & Lorn",
+                "ja": "アローンアンドローン"
+            },
+            "artist": "Ponchi♪ feat.はぁち",
+            "search_title": {
+                "ko": [
+                    "얼론 앤 론",
+                    "얼론 앤드 론"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "haachi",
+                    "haxchi"
+                ],
+                "ja": [
+                    "ぽんち"
+                ],
+                "ko": [
+                    "폰치",
+                    "하아치"
+                ]
+            },
+            "bpm": "100",
+            "bpm_base": 200,
+            "set": "extend_2",
+            "purchase": "extend_2",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "eden_light",
+            "bg_inverse": "eden_conflict",
+            "remote_dl": true,
+            "world_unlock": true,
+            "date": 1701302405,
+            "version": "5.2",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "én",
+                    "jacketDesigner": "のり恋",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "én",
+                    "jacketDesigner": "のり恋",
+                    "rating": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "én & KLMNOP",
+                    "jacketDesigner": "のり恋",
+                    "rating": 9
+                }
+            ]
+        },
+        {
+            "idx": 363,
+            "id": "wishuponasnow",
+            "title_localized": {
+                "en": "Wish Upon a Snow"
+            },
+            "artist": "打打だいず",
+            "search_title": {
+                "ja": [
+                    "うぃっしゅあぽんあすのー",
+                    "うぃっしゅあぽんあすのう"
+                ],
+                "ko": [
+                    "위시 어폰 어 스노우"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "dadadaizu",
+                    "dddice"
+                ],
+                "ja": [
+                    "だだだいず"
+                ],
+                "ko": [
+                    "다다다이즈"
+                ]
+            },
+            "bpm": "218",
+            "bpm_base": 218,
+            "set": "single",
+            "purchase": "wishuponasnow",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "eden_light",
+            "bg_inverse": "eden_conflict",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1701302406,
+            "version": "5.2",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "0°絶滅",
+                    "jacketDesigner": "桶乃かもく",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "0°絶滅",
+                    "jacketDesigner": "桶乃かもく",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "0°絶滅",
+                    "jacketDesigner": "桶乃かもく",
+                    "rating": 10
+                }
+            ]
         }
     ]
 }

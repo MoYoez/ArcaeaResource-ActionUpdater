@@ -457,6 +457,22 @@
       }
     },
     {
+      "id": "wacca_append_1",
+      "section": "collab",
+      "pack_parent": "wacca",
+      "plus_character": -1,
+      "name_localized": {
+        "en": "Collaboration Chapter 2"
+      },
+      "description_localized": {
+        "en": "Two worlds encounter each other again.\nDiscover 5 captivating songs in this next chapter\nof the WACCA collaboration!\n\nIn one, a voice resounds, \"Let's bring some fun to\nthis mundane world.\"",
+        "ja": "再び交わる2つの世界、再度両度の巡り合い。\n新章加わるWACCAコラボにて、\n目が離せない新たな5曲を体感せよ！\n\nそして、内より響くとある声。\n\"この退屈な世界に、楽しみを加えよう！\"",
+        "ko": "두 세계가 또다시 조우합니다.\n계속되는 WACCA 콜라보레이션!\n마음을 사로잡는 5개의 악곡을 경험해보세요!\n\n안으로부터 울려오는 목소리,\n\"이런 세계로는 아직 부족하니까.\n나를 더 즐겁게 해줘.\"",
+        "zh-Hant": "兩個世界再度交匯。\n五首魅力十足的歌曲，\n於WACCA聯動的第二彈中閃亮登場！\n\n聽，從遠方傳來的聲音說道：\n「是時候給這無趣的世界，添上有趣的一筆了！」",
+        "zh-Hans": "两个世界再度交汇。\n五首魅力十足的歌曲，\n于WACCA联动的第二弹中闪亮登场！\n\n听，从远方传来的声音说道：\n\"是时候给这无趣的世界，添上有趣的一笔了！\""
+      }
+    },
+    {
       "id": "maimai",
       "section": "collab",
       "custom_banner": true,
