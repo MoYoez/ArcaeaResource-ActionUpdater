@@ -22531,6 +22531,267 @@
                     "rating": 10
                 }
             ]
+        },
+        {
+            "idx": 364,
+            "id": "overdrive",
+            "title_localized": {
+                "en": "Kanbu de Tomatte Sugu Tokeru",
+                "ja": "患部で止まってすぐ溶ける　〜 狂気の優曇華院"
+            },
+            "artist": "ARM＋夕野ヨシミ (IOSYS) feat. miko",
+            "search_title": {
+                "en": [
+                    "kyouki no udongein"
+                ],
+                "ja": [
+                    "かんぶでとまってすぐとけるきょうきのうどんげいん"
+                ],
+                "ko": [
+                    "칸부데 토맛테 스구 토케루 쿄우키노 우동게인",
+                    "환부에서 멈춰서 바로 녹는다 광기의 우동게인"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "yuuno yoshimi"
+                ],
+                "ja": [
+                    "あーむ",
+                    "ゆうのよしみ",
+                    "みこ",
+                    "いおしす"
+                ],
+                "ko": [
+                    "이오시스",
+                    "암",
+                    "미코",
+                    "유우노 요시미"
+                ]
+            },
+            "bpm": "200",
+            "bpm_base": 200,
+            "set": "single",
+            "purchase": "overdrive",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "touhou_light",
+            "bg_inverse": "touhou_conflict",
+            "source_copyright": "©上海アリス幻樂団",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1703116800,
+            "version": "5.2",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "C7H11NO配合!!!!!!",
+                    "jacketDesigner": "モタ",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "C7H11NO配合!!!!!!",
+                    "jacketDesigner": "モタ",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "C7H11NO配合!!!!!!",
+                    "jacketDesigner": "モタ",
+                    "rating": 10
+                }
+            ]
+        },
+        {
+            "idx": 365,
+            "id": "felys",
+            "title_localized": {
+                "en": "felys final remix"
+            },
+            "artist": "onoken",
+            "search_title": {
+                "ja": [
+                    "ふぇりすふぁいなるりみっくす"
+                ],
+                "ko": [
+                    "펠리스 파이널 리믹스"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "おのけん"
+                ],
+                "ko": [
+                    "오노켄"
+                ]
+            },
+            "bpm": "180",
+            "bpm_base": 180,
+            "set": "extend_2",
+            "purchase": "extend_2",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "prelude_conflict",
+            "bg_inverse": "prelude_light",
+            "remote_dl": true,
+            "world_unlock": true,
+            "date": 1703116801,
+            "version": "5.2",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Dec18",
+                    "jacketDesigner": "Ta-k",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Dec18",
+                    "jacketDesigner": "Ta-k",
+                    "rating": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Dec18",
+                    "jacketDesigner": "Ta-k",
+                    "rating": 9
+                }
+            ]
+        },
+        {
+            "idx": 366,
+            "id": "onandon",
+            "title_localized": {
+                "en": "On And On!! feat. Jenga"
+            },
+            "artist": "ETIA.",
+            "search_title": {
+                "ja": [
+                    "おんあんどおん"
+                ],
+                "ko": [
+                    "온 앤 온"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "えちあ",
+                    "じぇんが"
+                ],
+                "ko": [
+                    "에치아",
+                    "젠가"
+                ]
+            },
+            "bpm": "170",
+            "bpm_base": 170,
+            "set": "extend_2",
+            "purchase": "extend_2",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "nijuusei2_light",
+            "bg_inverse": "nijuusei2_conflict",
+            "remote_dl": true,
+            "world_unlock": true,
+            "date": 1703116802,
+            "version": "5.2",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "én and én!!",
+                    "jacketDesigner": "Keizou",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "én and én!!",
+                    "jacketDesigner": "Keizou",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "én and én!!",
+                    "jacketDesigner": "Keizou",
+                    "rating": 9
+                }
+            ]
+        },
+        {
+            "idx": 367,
+            "id": "lightmyway",
+            "title_localized": {
+                "en": "LIVHT MY WΔY"
+            },
+            "artist": "かめりあ feat. STΔRLIVHT",
+            "search_title": {
+                "en": [
+                    "light my way"
+                ],
+                "ja": [
+                    "らいとまいうぇい"
+                ],
+                "ko": [
+                    "라이트 마이 웨이",
+                    "라잇 마이 웨이"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "kameria",
+                    "camellia",
+                    "starlight"
+                ],
+                "ja": [
+                    "すたーらいと"
+                ],
+                "ko": [
+                    "카메리아",
+                    "카멜리아",
+                    "스타라이트"
+                ]
+            },
+            "bpm": "190",
+            "bpm_base": 190,
+            "set": "single",
+            "purchase": "lightmyway",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "single2_conflict",
+            "bg_inverse": "single2_light",
+            "remote_dl": true,
+            "source_localized": {
+                "en": "NOISZ STARLIVHT"
+            },
+            "source_copyright": "©Anarch Ent. 2022",
+            "world_unlock": false,
+            "date": 1703116802,
+            "version": "5.2",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "k//eternal + nitro\n\"ephemeral past\"",
+                    "jacketDesigner": "fruitsrabbit",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "k//eternal + nitro\n\"recursive present\"",
+                    "jacketDesigner": "fruitsrabbit",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "k//eternal + nitro\n\"convergent future\"",
+                    "jacketDesigner": "fruitsrabbit",
+                    "rating": 9,
+                    "ratingPlus": true
+                }
+            ]
         }
     ]
 }
