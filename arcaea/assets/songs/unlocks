@@ -4989,5 +4989,53 @@
         }
       ]
     }
+    ,
+    {
+      "songId": "hotarubinoyuki",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 2,
+          "song_id": "melodyoflove",
+          "song_difficulty": 0
+        },
+        {
+          "type": 0,
+          "credit": 10
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "hotarubinoyuki",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 2,
+          "song_id": "melodyoflove",
+          "song_difficulty": 1
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "hotarubinoyuki",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 2,
+          "song_id": "melodyoflove",
+          "song_difficulty": 2
+        },
+        {
+          "type": 0,
+          "credit": 280
+        }
+      ]
+    }
   ]
 }

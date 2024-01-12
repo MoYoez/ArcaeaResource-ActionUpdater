@@ -22792,6 +22792,68 @@
                     "ratingPlus": true
                 }
             ]
+        },
+        {
+            "idx": 368,
+            "id": "hotarubinoyuki",
+            "title_localized": {
+                "en": "Hotarubi no Yuki",
+                "ja": "蛍火の雪"
+            },
+            "artist": "Endorfin.",
+            "search_title": {
+                "ko": [
+                    "호타루비노 유키",
+                    "반딧불의 눈"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "えんどるふぃん"
+                ],
+                "ko": [
+                    "엔돌핀",
+                    "엔도르핀"
+                ]
+            },
+            "bpm": "159",
+            "bpm_base": 159,
+            "set": "omatsuri",
+            "purchase": "omatsuri",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "omatsuri_light",
+            "bg_inverse": "omatsuri_conflict",
+            "bg_daynight": {
+                "day": "omatsuri_light",
+                "night": "omatsuri_conflict"
+            },
+            "remote_dl": true,
+            "world_unlock": true,
+            "date": 1705017600,
+            "version": "5.2",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "0°Nitro",
+                    "jacketDesigner": "Bison",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "0°Nitro",
+                    "jacketDesigner": "Bison",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "0°Nitro",
+                    "jacketDesigner": "Bison",
+                    "rating": 9,
+                    "ratingPlus": true
+                }
+            ]
         }
     ]
 }
