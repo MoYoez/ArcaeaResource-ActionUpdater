@@ -5037,5 +5037,27 @@
         }
       ]
     }
+    ,
+    {
+      "songId": "theformula",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 60
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "theformula",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 0,
+          "credit": 280
+        }
+      ]
+    }
   ]
 }

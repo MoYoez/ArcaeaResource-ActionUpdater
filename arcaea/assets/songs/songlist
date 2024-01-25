@@ -966,7 +966,8 @@
                     "jacketOverride": true,
                     "ratingPlus": true,
                     "date": 1639008001,
-                    "version": "3.10"
+                    "version": "3.10",
+                    "hidden_until": "difficulty"
                 }
             ]
         },
@@ -1037,7 +1038,8 @@
                     "bg": "pragmatism3",
                     "rating": 11,
                     "date": 1639008004,
-                    "version": "3.10"
+                    "version": "3.10",
+                    "hidden_until": "difficulty"
                 }
             ]
         },
@@ -4896,6 +4898,16 @@
                     "chartDesigner": "Kero + Nitro",
                     "jacketDesigner": "mirimo",
                     "rating": 9
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "antymis",
+                    "jacketDesigner": "mirimo",
+                    "jacketOverride": true,
+                    "rating": 9,
+                    "ratingPlus": true,
+                    "date": 1706140801,
+                    "version": "5.3"
                 }
             ]
         },
@@ -5007,6 +5019,15 @@
                     "chartDesigner": "Kurorak",
                     "jacketDesigner": "Ancy",
                     "rating": 7
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "CERiNG",
+                    "jacketDesigner": "Ancy",
+                    "jacketOverride": true,
+                    "rating": 9,
+                    "date": 1706140800,
+                    "version": "5.3"
                 }
             ]
         },
@@ -6866,6 +6887,15 @@
                     "chartDesigner": "Kurorak + Nitro",
                     "jacketDesigner": "wacca",
                     "rating": 9
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "Exschwasion -unbound-",
+                    "jacketDesigner": "wacca",
+                    "jacketOverride": true,
+                    "rating": 10,
+                    "date": 1706140803,
+                    "version": "5.3"
                 }
             ]
         },
@@ -6997,7 +7027,8 @@
                     "jacketOverride": true,
                     "rating": 9,
                     "date": 1639008002,
-                    "version": "3.10"
+                    "version": "3.10",
+                    "hidden_until": "difficulty"
                 }
             ]
         },
@@ -7177,6 +7208,24 @@
                     "chartDesigner": "Nitro vanquish Toaster.",
                     "jacketDesigner": "吠L",
                     "rating": 10
+                },
+                {
+                    "ratingClass": 3,
+                    "title_localized": {
+                        "en": "Vicious [ANTi] Heroism"
+                    },
+                    "artist": "Kobaryo",
+                    "bpm": "271",
+                    "bpm_base": 271,
+                    "audioOverride": true,
+                    "chartDesigner": "[FUTiLE] Defiance",
+                    "jacketDesigner": "陽葉ヨウ",
+                    "jacketOverride": true,
+                    "bg": "viciousheroism3",
+                    "rating": 11,
+                    "date": 1706140806,
+                    "version": "5.3",
+                    "hidden_until": "difficulty"
                 }
             ]
         },
@@ -7971,7 +8020,8 @@
                     "rating": 10,
                     "ratingPlus": true,
                     "date": 1639008003,
-                    "version": "3.10"
+                    "version": "3.10",
+                    "hidden_until": "difficulty"
                 }
             ]
         },
@@ -9091,6 +9141,17 @@
                     "jacketDesigner": "すずなし",
                     "rating": 9,
                     "ratingPlus": true
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "~REQUIEM~ 夜浪",
+                    "jacketDesigner": "すずなし",
+                    "jacketOverride": true,
+                    "rating": 10,
+                    "ratingPlus": true,
+                    "date": 1706140805,
+                    "version": "5.3",
+                    "hidden_until": "difficulty"
                 }
             ]
         },
@@ -9383,6 +9444,16 @@
                     "chartDesigner": "Toaster",
                     "jacketDesigner": "クルエルGZ",
                     "rating": 8
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "Nitro 「The Forgotten」",
+                    "jacketDesigner": "クルエルGZ",
+                    "jacketOverride": true,
+                    "rating": 9,
+                    "ratingPlus": true,
+                    "date": 1706140802,
+                    "version": "5.3"
                 }
             ]
         },
@@ -11177,6 +11248,16 @@
                     "chartDesigner": "Exschwasion",
                     "jacketDesigner": "HakureiNeko",
                     "rating": 9
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "\/ERROR\/ 絶滅",
+                    "jacketDesigner": "HakureiNeko",
+                    "jacketOverride": true,
+                    "rating": 10,
+                    "date": 1706140804,
+                    "version": "5.3",
+                    "hidden_until": "difficulty"
                 }
             ]
         },
@@ -22853,6 +22934,127 @@
                     "ratingClass": 2,
                     "chartDesigner": "0°Nitro",
                     "jacketDesigner": "Bison",
+                    "rating": 9,
+                    "ratingPlus": true
+                }
+            ]
+        },
+        {
+            "idx": 369,
+            "id": "theformula",
+            "title_localized": {
+                "en": "The Formula"
+            },
+            "artist": "Junk",
+            "search_title": {
+                "ja": [
+                    "ざふぉーみゅら"
+                ],
+                "ko": [
+                    "더 포뮬라"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "じゃんく"
+                ],
+                "ko": [
+                    "정크"
+                ]
+            },
+            "bpm": "144",
+            "bpm_base": 144,
+            "set": "base",
+            "purchase": "",
+            "audioPreview": 98333,
+            "audioPreviewEnd": 125000,
+            "side": 0,
+            "bg": "nijuusei2_light",
+            "bg_inverse": "nijuusei2_conflict",
+            "remote_dl": false,
+            "world_unlock": false,
+            "date": 1706140807,
+            "version": "5.3",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Dec18",
+                    "jacketDesigner": "鑓田 (alpha complex)",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Dec18",
+                    "jacketDesigner": "鑓田 (alpha complex)",
+                    "rating": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Dec18",
+                    "jacketDesigner": "鑓田 (alpha complex)",
+                    "rating": 9
+                }
+            ]
+        },
+        {
+            "idx": 370,
+            "id": "lunarossa",
+            "title_localized": {
+                "en": "Luna Rossa"
+            },
+            "artist": "r0y",
+            "bpm": "174",
+            "bpm_base": 174,
+            "set": "single",
+            "purchase": "lunarossa",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "yugamu",
+            "bg_inverse": "rei",
+            "remote_dl": true,
+            "source_localized": {
+                "en": "Shinobi Slash",
+                "ja": "シノビスラッシュ"
+            },
+            "search_title": {
+                "ja": [
+                    "るなろっさ"
+                ],
+                "ko": [
+                    "루나 로사",
+                    "루나 롯사"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "ろい"
+                ],
+                "ko": [
+                    "로이"
+                ]
+            },
+            "source_copyright": "©Drossel\/Studio",
+            "world_unlock": false,
+            "date": 1706140808,
+            "version": "5.3",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Luxance",
+                    "jacketDesigner": "未早",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Luxance",
+                    "jacketDesigner": "未早",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Luxance",
+                    "jacketDesigner": "未早",
                     "rating": 9,
                     "ratingPlus": true
                 }
