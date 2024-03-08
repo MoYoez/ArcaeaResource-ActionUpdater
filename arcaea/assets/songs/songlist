@@ -52,6 +52,14 @@
                     "chartDesigner": "Toaster",
                     "jacketDesigner": "",
                     "rating": 7
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "Luxance + Exschwasion",
+                    "jacketDesigner": "",
+                    "rating": 8,
+                    "date": 1709856000,
+                    "version": "5.4"
                 }
             ]
         },
@@ -242,7 +250,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "Toaster",
                     "jacketDesigner": "Khronetic",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -297,7 +306,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "Nitro",
                     "jacketDesigner": "",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -589,7 +599,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "Nitro",
                     "jacketDesigner": "Frums",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -738,10 +749,10 @@
             "audioPreview": 33882,
             "audioPreviewEnd": 68470,
             "side": 0,
-            "world_unlock": true,
+            "world_unlock": false,
             "bg": "base_light",
             "bg_inverse": "base_conflict",
-            "remote_dl": true,
+            "remote_dl": false,
             "date": 1487980806,
             "version": "1.0",
             "difficulties": [
@@ -835,7 +846,7 @@
                     "chartDesigner": "石樂",
                     "jacketDesigner": "Koyama Mai",
                     "jacketOverride": true,
-                    "rating": 8,
+                    "rating": 9,
                     "date": 1590537600,
                     "version": "3.0"
                 }
@@ -1096,7 +1107,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "夜浪",
                     "jacketDesigner": "シエラ",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -1222,7 +1234,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "Toaster",
                     "jacketDesigner": "",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 3,
@@ -1412,7 +1425,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "Nitro",
                     "jacketDesigner": "Tagtraume",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 3,
@@ -1473,7 +1487,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "Party Toaster",
                     "jacketDesigner": "アサヤ",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -1543,7 +1558,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "Nitro",
                     "jacketDesigner": "yoshimo",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -1714,7 +1730,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "Nitro",
                     "jacketDesigner": "ましろみ のあ",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -1770,7 +1787,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "Nitro 2.0",
                     "jacketDesigner": "",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -2007,7 +2025,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "Kurorak",
                     "jacketDesigner": "",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -2144,7 +2163,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "Kurorak",
                     "jacketDesigner": "",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -2270,7 +2290,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "k//eternal",
                     "jacketDesigner": "",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -2465,7 +2486,17 @@
                     "ratingClass": 2,
                     "chartDesigner": "小東星",
                     "jacketDesigner": "yoshimo",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "eién",
+                    "jacketDesigner": "yoshimo",
+                    "rating": 8,
+                    "ratingPlus": true,
+                    "date": 1709856001,
+                    "version": "5.4"
                 }
             ]
         },
@@ -2722,7 +2753,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "Kurorak",
                     "jacketDesigner": "橙乃遥",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -3616,7 +3648,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "side BLUE -chartaesthesia-",
                     "jacketDesigner": "Khronetic",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -3758,7 +3791,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "Nitro",
                     "jacketDesigner": "softmode",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -3870,7 +3904,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "夜浪",
                     "jacketDesigner": "",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -3938,7 +3973,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "k//eternal",
                     "jacketDesigner": "",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -4000,7 +4036,7 @@
                     "ratingClass": 2,
                     "chartDesigner": "Kurorak",
                     "jacketDesigner": "",
-                    "rating": 8
+                    "rating": 9
                 }
             ]
         },
@@ -4339,7 +4375,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "東星",
                     "jacketDesigner": "シエラ",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -4539,7 +4576,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "Nitro",
                     "jacketDesigner": "mins",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 3,
@@ -4720,7 +4758,7 @@
                     "ratingClass": 1,
                     "chartDesigner": "τoastεr",
                     "jacketDesigner": "姐川 + Khronetic",
-                    "rating": 7
+                    "rating": 8
                 },
                 {
                     "ratingClass": 2,
@@ -4777,7 +4815,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "週刊Toaster",
                     "jacketDesigner": "未早",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -4963,7 +5002,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "Kuro my Nitro",
                     "jacketDesigner": "DJ Poyoshi",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -5018,7 +5058,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "Kurorak",
                     "jacketDesigner": "Ancy",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 3,
@@ -5091,7 +5132,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "小東星",
                     "jacketDesigner": "アリスシャッハと魔法の楽団",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -5434,7 +5476,17 @@
                     "ratingClass": 2,
                     "chartDesigner": "Toastie",
                     "jacketDesigner": "雨風雪夏",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "CERiNG",
+                    "jacketDesigner": "雨風雪夏",
+                    "rating": 8,
+                    "ratingPlus": true,
+                    "date": 1709856002,
+                    "version": "5.4"
                 }
             ]
         },
@@ -5624,7 +5676,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "-chartaesthesia-\nLIMITER:25% (OVERDRIVE:+100%)",
                     "jacketDesigner": "Hanamori Hiro",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 3,
@@ -6190,7 +6243,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "夜浪[Spherical]",
                     "jacketDesigner": "",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -6550,7 +6604,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "Got More Taro?",
                     "jacketDesigner": "",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 3,
@@ -6960,7 +7015,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "",
                     "jacketDesigner": "シエラ",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -7018,7 +7074,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "chaos//engine",
                     "jacketDesigner": "釜飯轟々丸 + Khronetic",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 3,
@@ -7336,7 +7393,7 @@
                     "ratingClass": 1,
                     "chartDesigner": "Revoke Kurorak",
                     "jacketDesigner": "出前",
-                    "rating": 6
+                    "rating": 7
                 },
                 {
                     "ratingClass": 2,
@@ -7378,8 +7435,8 @@
             "side": 0,
             "bg": "rei",
             "bg_inverse": "yugamu",
-            "remote_dl": true,
-            "world_unlock": true,
+            "remote_dl": false,
+            "world_unlock": false,
             "date": 1553126400,
             "version": "2.0",
             "difficulties": [
@@ -7399,7 +7456,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "Toaster",
                     "jacketDesigner": "",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -7894,7 +7952,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "小東星",
                     "jacketDesigner": "",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -8139,7 +8198,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "TaroNuke",
                     "jacketDesigner": "Refla",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -8707,7 +8767,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "N↕TRO",
                     "jacketDesigner": "GreeN",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -8832,7 +8893,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "k//eternal",
                     "jacketDesigner": "未早",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -8883,7 +8945,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "Toaster",
                     "jacketDesigner": "Hanamori Hiro",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -9378,7 +9441,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "現在の縁",
                     "jacketDesigner": "Sta",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -9564,7 +9628,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "夜浪「月食」",
                     "jacketDesigner": "softmode",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -9680,7 +9745,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "Toaster",
                     "jacketDesigner": "リウイチ",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -9740,7 +9806,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "Darkest Dream",
                     "jacketDesigner": "シエラ",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -9903,7 +9970,7 @@
                     "ratingClass": 0,
                     "chartDesigner": "Prelude - Ouverture",
                     "jacketDesigner": "シエラ",
-                    "rating": 6
+                    "rating": 7
                 },
                 {
                     "ratingClass": 1,
@@ -9980,6 +10047,7 @@
                     "chartDesigner": "∅",
                     "jacketDesigner": "シエラ",
                     "rating": 7,
+                    "ratingPlus": true,
                     "hidden_until_unlocked": true,
                     "hidden_until": "difficulty"
                 },
@@ -10111,7 +10179,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "CERiNG",
                     "jacketDesigner": "mokeo",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -10286,7 +10355,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "TaroNuke",
                     "jacketDesigner": "Mechari",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -10756,7 +10826,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "×NITRO×",
                     "jacketDesigner": "nonokuro",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -11612,7 +11683,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "CERiNG",
                     "jacketDesigner": "にもし",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -11922,7 +11994,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "東星の涙",
                     "jacketDesigner": "",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -11994,7 +12067,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "τ0",
                     "jacketDesigner": "",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -12128,7 +12202,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "石樂",
                     "jacketDesigner": "",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -12253,7 +12328,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "AMAZING TOASTYYYY!!!!",
                     "jacketDesigner": "",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -12315,7 +12391,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "Nitro -EXTRA ROUND-",
                     "jacketDesigner": "",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -12565,7 +12642,7 @@
                     "ratingClass": 1,
                     "chartDesigner": "Toaster affected by 'CHUNITHM'",
                     "jacketDesigner": "Enji",
-                    "rating": 7
+                    "rating": 8
                 },
                 {
                     "ratingClass": 2,
@@ -12868,7 +12945,7 @@
                     "ratingClass": 1,
                     "chartDesigner": "Nitro",
                     "jacketDesigner": "",
-                    "rating": 5
+                    "rating": 6
                 },
                 {
                     "ratingClass": 2,
@@ -12932,7 +13009,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "CERiNG",
                     "jacketDesigner": "桶乃かもく",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -13052,7 +13130,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "Toaster",
                     "jacketDesigner": "梅まろ",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -13242,7 +13321,7 @@
                     "ratingClass": 2,
                     "chartDesigner": "Exschwasion",
                     "jacketDesigner": "水視ずみ",
-                    "rating": 8
+                    "rating": 9
                 }
             ]
         },
@@ -13297,7 +13376,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "ΤΟΑΣΤΕΡ",
                     "jacketDesigner": "SHIROTA.",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -13416,7 +13496,7 @@
                     "ratingClass": 1,
                     "chartDesigner": "Kurorak",
                     "jacketDesigner": "Asagon.",
-                    "rating": 6
+                    "rating": 7
                 },
                 {
                     "ratingClass": 2,
@@ -13475,7 +13555,7 @@
                     "ratingClass": 1,
                     "chartDesigner": "Toaster",
                     "jacketDesigner": "志月",
-                    "rating": 5
+                    "rating": 6
                 },
                 {
                     "ratingClass": 2,
@@ -13599,7 +13679,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "夜浪 vs Nitro",
                     "jacketDesigner": "Nagu + yusi.",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -13723,7 +13804,7 @@
                     "ratingClass": 1,
                     "chartDesigner": "NITRO -unconnected-",
                     "jacketDesigner": "fixro2n",
-                    "rating": 7
+                    "rating": 8
                 },
                 {
                     "ratingClass": 2,
@@ -13969,7 +14050,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "東星※神授",
                     "jacketDesigner": "緋原ヨウ",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -14032,7 +14114,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "Exschwasion",
                     "jacketDesigner": "",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -14093,13 +14176,14 @@
                     "ratingClass": 1,
                     "chartDesigner": "CERiNG",
                     "jacketDesigner": "",
-                    "rating": 5
+                    "rating": 6
                 },
                 {
                     "ratingClass": 2,
                     "chartDesigner": "CERiNG",
                     "jacketDesigner": "",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 3,
@@ -14231,7 +14315,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "Toaster",
                     "jacketDesigner": "Taiyo Yamamoto",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -14600,7 +14685,7 @@
                     "ratingClass": 1,
                     "chartDesigner": "_ P R E S E N T",
                     "jacketDesigner": "",
-                    "rating": 7
+                    "rating": 8
                 },
                 {
                     "ratingClass": 2,
@@ -14846,7 +14931,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "Nitro missing Toaster.",
                     "jacketDesigner": "シエラ",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -15102,7 +15188,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "Nitro",
                     "jacketDesigner": "ヒトこもる",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -15153,7 +15240,7 @@
                     "ratingClass": 1,
                     "chartDesigner": "CERiNG",
                     "jacketDesigner": "チェリム",
-                    "rating": 5
+                    "rating": 6
                 },
                 {
                     "ratingClass": 2,
@@ -15281,7 +15368,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "Nitro × Toaster",
                     "jacketDesigner": "久坂んむり",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -15339,7 +15427,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "東星",
                     "jacketDesigner": "シエラ",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -15402,13 +15491,14 @@
                     "ratingClass": 1,
                     "chartDesigner": "antymis",
                     "jacketDesigner": "",
-                    "rating": 5
+                    "rating": 6
                 },
                 {
                     "ratingClass": 2,
                     "chartDesigner": "antymis",
                     "jacketDesigner": "",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -15773,7 +15863,7 @@
                     "ratingClass": 1,
                     "chartDesigner": "én",
                     "jacketDesigner": "",
-                    "rating": 5
+                    "rating": 6
                 },
                 {
                     "ratingClass": 2,
@@ -15830,7 +15920,7 @@
                     "ratingClass": 1,
                     "chartDesigner": "moonquay [AUX]",
                     "jacketDesigner": "",
-                    "rating": 6
+                    "rating": 7
                 },
                 {
                     "ratingClass": 2,
@@ -15888,7 +15978,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "Exschwas↕on",
                     "jacketDesigner": "装甲枕",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -16007,7 +16098,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "NITRO",
                     "jacketDesigner": "Siino",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -16140,7 +16232,7 @@
                     "ratingClass": 1,
                     "chartDesigner": "夜浪",
                     "jacketDesigner": "",
-                    "rating": 7
+                    "rating": 8
                 },
                 {
                     "ratingClass": 2,
@@ -16389,7 +16481,7 @@
                     "chartDesigner": "antymis <prototype>",
                     "jacketDesigner": "",
                     "jacketOverride": true,
-                    "rating": 6
+                    "rating": 7
                 },
                 {
                     "ratingClass": 2,
@@ -16876,7 +16968,8 @@
                     "ratingClass": 1,
                     "jacketDesigner": "Khronetic",
                     "chartDesigner": "CERiNG + Nitro",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -16934,7 +17027,8 @@
                     "ratingClass": 1,
                     "jacketDesigner": "yoshimo",
                     "chartDesigner": "én -胡蝶の夢-",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -17132,7 +17226,8 @@
                     "ratingClass": 1,
                     "jacketDesigner": "米室",
                     "chartDesigner": "Imaginary Sky",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -17198,13 +17293,14 @@
                     "ratingClass": 0,
                     "jacketDesigner": "村カルキ",
                     "chartDesigner": "Paradox Blight",
-                    "rating": 6
+                    "rating": 7
                 },
                 {
                     "ratingClass": 1,
                     "jacketDesigner": "村カルキ",
                     "chartDesigner": "Paradox Blight",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -17278,7 +17374,8 @@
                     "ratingClass": 1,
                     "jacketDesigner": "シエラ",
                     "chartDesigner": "Eye of the Storm",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -17349,6 +17446,7 @@
                     "jacketDesigner": "シエラ",
                     "chartDesigner": "Eternal¦PAST",
                     "rating": 7,
+                    "ratingPlus": true,
                     "hidden_until": "song"
                 },
                 {
@@ -18100,7 +18198,7 @@
                     "ratingClass": 1,
                     "chartDesigner": "Nitro",
                     "jacketDesigner": "wacca",
-                    "rating": 6
+                    "rating": 7
                 },
                 {
                     "ratingClass": 2,
@@ -18157,7 +18255,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "0°Nitro",
                     "jacketDesigner": "シエラ",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -18223,7 +18322,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "Nitroです。",
                     "jacketDesigner": "七草くりむ",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -18288,7 +18388,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "Lovely Visitor「Toaster」",
                     "jacketDesigner": "",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -18342,7 +18443,7 @@
                     "ratingClass": 1,
                     "chartDesigner": "ANTyMIS",
                     "jacketDesigner": "N²/ANTIREAL",
-                    "rating": 5
+                    "rating": 7
                 },
                 {
                     "ratingClass": 2,
@@ -18458,7 +18559,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "Aster",
                     "jacketDesigner": "八重幸",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -18516,7 +18618,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "夜浪 -Annales Historiae-",
                     "jacketDesigner": "fixro2n",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -18573,7 +18676,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "夜浪",
                     "jacketDesigner": "softmode",
-                    "rating": 7
+                    "rating": 8,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -18689,7 +18793,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "NITR<O>",
                     "jacketDesigner": "トロ３",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -18892,7 +18997,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "N-Helix",
                     "jacketDesigner": "",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -19011,7 +19117,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "Nitro",
                     "jacketDesigner": "",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -19130,7 +19237,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "東星※原初の灯",
                     "jacketDesigner": "Waterswing",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -19201,7 +19309,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "Nitro NEW!!",
                     "jacketDesigner": "",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -19261,7 +19370,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "ÉN IMPACT",
                     "jacketDesigner": "",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -19475,7 +19585,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "夜浪 <->",
                     "jacketDesigner": "",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -19844,7 +19955,7 @@
                     "ratingClass": 2,
                     "chartDesigner": "Luxance",
                     "jacketDesigner": "",
-                    "rating": 8
+                    "rating": 9
                 }
             ]
         },
@@ -19961,7 +20072,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "Exschwasion",
                     "jacketDesigner": "",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -20023,7 +20135,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "Nitroだー！",
                     "jacketDesigner": "Bison",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -20086,7 +20199,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "該当チャンネルが停止されたため、\nこの譜面は再生できません。",
                     "jacketDesigner": "",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -20211,7 +20325,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "₸öα$†ε₹",
                     "jacketDesigner": "",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -20275,7 +20390,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "Toaster vs ₸öα$†ε₹",
                     "jacketDesigner": "NC帝國",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -20406,7 +20522,7 @@
                     "ratingClass": 0,
                     "chartDesigner": "Luxance",
                     "jacketDesigner": "",
-                    "rating": 3
+                    "rating": 4
                 },
                 {
                     "ratingClass": 1,
@@ -20669,7 +20785,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "終点",
                     "jacketDesigner": "",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -20738,6 +20855,7 @@
                     "chartDesigner": "Main_Log_702_10_25",
                     "jacketDesigner": "",
                     "rating": 8,
+                    "ratingPlus": true,
                     "jacketOverride": true
                 },
                 {
@@ -20801,7 +20919,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "Lacrimosa",
                     "jacketDesigner": "",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -20920,7 +21039,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "NO₂",
                     "jacketDesigner": "いわこ脳",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -20985,13 +21105,15 @@
                     "ratingClass": 1,
                     "chartDesigner": "én",
                     "jacketDesigner": "子期安NANA_ANN",
-                    "rating": 6
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
                     "chartDesigner": "én",
                     "jacketDesigner": "子期安NANA_ANN",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 }
             ]
         },
@@ -21043,7 +21165,7 @@
                     "ratingClass": 1,
                     "chartDesigner": "Exschwasion",
                     "jacketDesigner": "めとこ",
-                    "rating": 6
+                    "rating": 7
                 },
                 {
                     "ratingClass": 2,
@@ -21107,7 +21229,7 @@
                     "ratingClass": 1,
                     "chartDesigner": "N⇑TRO",
                     "jacketDesigner": "Asgard",
-                    "rating": 7
+                    "rating": 8
                 },
                 {
                     "ratingClass": 2,
@@ -21167,7 +21289,7 @@
                     "ratingClass": 1,
                     "chartDesigner": "Toaster",
                     "jacketDesigner": "ひと和",
-                    "rating": 7
+                    "rating": 8
                 },
                 {
                     "ratingClass": 2,
@@ -21232,7 +21354,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "Remnant ⇒ Doubt",
                     "jacketDesigner": "おぐち",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -21361,7 +21484,7 @@
                     "ratingClass": 1,
                     "chartDesigner": "",
                     "jacketDesigner": "Bison",
-                    "rating": 7,
+                    "rating": 8,
                     "jacketOverride": true
                 },
                 {
@@ -21420,7 +21543,7 @@
                     "ratingClass": 1,
                     "chartDesigner": "Nitro",
                     "jacketDesigner": "",
-                    "rating": 6
+                    "rating": 7
                 },
                 {
                     "ratingClass": 2,
@@ -21482,7 +21605,7 @@
                     "ratingClass": 1,
                     "chartDesigner": "Exschwasión",
                     "jacketDesigner": "AT基調",
-                    "rating": 6
+                    "rating": 7
                 },
                 {
                     "ratingClass": 2,
@@ -21670,7 +21793,7 @@
                     "ratingClass": 1,
                     "chartDesigner": "CERiNG",
                     "jacketDesigner": "LOWRISE",
-                    "rating": 6
+                    "rating": 7
                 },
                 {
                     "ratingClass": 2,
@@ -21790,7 +21913,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "絶滅",
                     "jacketDesigner": "majamari",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -21906,7 +22030,7 @@
                     "ratingClass": 0,
                     "chartDesigner": "第一識 \"Reality\"",
                     "jacketDesigner": "すずなし",
-                    "rating": 6
+                    "rating": 7
                 },
                 {
                     "ratingClass": 1,
@@ -21978,7 +22102,7 @@
                     "ratingClass": 1,
                     "chartDesigner": "TOA5TIE",
                     "jacketDesigner": "nep",
-                    "rating": 6
+                    "rating": 7
                 },
                 {
                     "ratingClass": 2,
@@ -22042,7 +22166,7 @@
                     "ratingClass": 1,
                     "chartDesigner": "CERiNG -liminal-",
                     "jacketDesigner": "PAZZi",
-                    "rating": 6
+                    "rating": 7
                 },
                 {
                     "ratingClass": 2,
@@ -22162,7 +22286,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "夜浪",
                     "jacketDesigner": "hiro",
-                    "rating": 8
+                    "rating": 8,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -22352,7 +22477,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "絶滅",
                     "jacketDesigner": "",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -22479,7 +22605,8 @@
                     "ratingClass": 1,
                     "chartDesigner": "夜浪",
                     "jacketDesigner": "Taiyo Yamamoto",
-                    "rating": 7
+                    "rating": 7,
+                    "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
@@ -23049,7 +23176,7 @@
                     "ratingClass": 1,
                     "chartDesigner": "Luxance",
                     "jacketDesigner": "未早",
-                    "rating": 7
+                    "rating": 6
                 },
                 {
                     "ratingClass": 2,
@@ -23057,6 +23184,453 @@
                     "jacketDesigner": "未早",
                     "rating": 9,
                     "ratingPlus": true
+                }
+            ]
+        },
+        {
+            "idx": 371,
+            "id": "jingle",
+            "title_localized": {
+                "en": "Jingle"
+            },
+            "artist": "DJ Noriken",
+            "search_title": {
+                "ja": [
+                    "じんぐる"
+                ],
+                "ko": [
+                    "징글"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "でぃーじぇーのりけん",
+                    "でぃーじぇいのりけん"
+                ],
+                "ko": [
+                    "디제이 노리켄"
+                ]
+            },
+            "bpm": "170",
+            "bpm_base": 170,
+            "set": "base",
+            "purchase": "",
+            "audioPreview": 48705,
+            "audioPreviewEnd": 74823,
+            "side": 0,
+            "bg": "single2_light",
+            "bg_inverse": "single2_conflict",
+            "remote_dl": false,
+            "world_unlock": false,
+            "date": 1709856003,
+            "version": "5.4",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Exschwasion",
+                    "jacketDesigner": "黒兎 + Hitomasu Modoru",
+                    "rating": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Exschwasion",
+                    "jacketDesigner": "黒兎 + Hitomasu Modoru",
+                    "rating": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Exschwasion",
+                    "jacketDesigner": "黒兎 + Hitomasu Modoru",
+                    "rating": 7,
+                    "ratingPlus": true
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "KLMNOP",
+                    "jacketDesigner": "黒兎 + Hitomasu Modoru",
+                    "rating": 9
+                }
+            ]
+        },
+        {
+            "idx": 372,
+            "id": "innocence",
+            "title_localized": {
+                "en": "Innocence"
+            },
+            "artist": "Powerless feat. Sennzai",
+            "search_title": {
+                "ja": [
+                    "いのせんす"
+                ],
+                "ko": [
+                    "이노센스"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "ぱわーれす",
+                    "せんざい"
+                ],
+                "ko": [
+                    "파워리스",
+                    "센자이"
+                ]
+            },
+            "bpm": "190",
+            "bpm_base": 190,
+            "set": "single",
+            "purchase": "",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "vs_light",
+            "bg_inverse": "vs_conflict",
+            "remote_dl": true,
+            "world_unlock": true,
+            "date": 1709856004,
+            "version": "5.4",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "First Dawn",
+                    "jacketDesigner": "すずなし",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "First Dawn",
+                    "jacketDesigner": "すずなし",
+                    "rating": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "First Dawn",
+                    "jacketDesigner": "すずなし",
+                    "rating": 8
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "First Dawn",
+                    "jacketDesigner": "すずなし",
+                    "rating": 9,
+                    "ratingPlus": true
+                }
+            ]
+        },
+        {
+            "idx": 373,
+            "id": "ionostream",
+            "title_localized": {
+                "en": "IONOSTREAM"
+            },
+            "artist": "Tatsh",
+            "search_title": {
+                "ja": [
+                    "あいおのすとりーむ"
+                ],
+                "ko": [
+                    "아이오노스트림"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "たっしゅ"
+                ],
+                "ko": [
+                    "탓쉬",
+                    "탯쉬",
+                    "탓시",
+                    "탯시"
+                ]
+            },
+            "bpm": "220-254",
+            "bpm_base": 254,
+            "set": "single",
+            "purchase": "ionostream",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "nijuusei2_conflict",
+            "bg_inverse": "nijuusei2_light",
+            "remote_dl": true,
+            "source_localized": {
+                "en": "RESONARK"
+            },
+            "world_unlock": false,
+            "date": 1709856005,
+            "version": "5.4",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Nitro",
+                    "jacketDesigner": "Cem, septem47",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Nitro",
+                    "jacketDesigner": "Cem, septem47",
+                    "rating": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Dec18 + Nitro",
+                    "jacketDesigner": "Cem, septem47",
+                    "rating": 8,
+                    "ratingPlus": true
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "Dec18 + Nitro",
+                    "jacketDesigner": "Cem, septem47",
+                    "rating": 9,
+                    "ratingPlus": true
+                }
+            ]
+        },
+        {
+            "idx": 374,
+            "id": "alephzero",
+            "title_localized": {
+                "en": "Aleph-0"
+            },
+            "artist": "LeaF",
+            "search_title": {
+                "ja": [
+                    "あれふぜろ"
+                ],
+                "ko": [
+                    "알레프 제로"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "りーふ"
+                ],
+                "ko": [
+                    "리프"
+                ]
+            },
+            "bpm": "35-400",
+            "bpm_base": 250,
+            "set": "extend_2",
+            "purchase": "extend_2",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "single2_conflict",
+            "bg_inverse": "single2_light",
+            "remote_dl": true,
+            "world_unlock": true,
+            "date": 1709856006,
+            "version": "5.4",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "ə₀",
+                    "jacketDesigner": "Optie",
+                    "rating": 5
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "ə₀",
+                    "jacketDesigner": "Optie",
+                    "rating": 8,
+                    "ratingPlus": true
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "ə₀",
+                    "jacketDesigner": "Optie",
+                    "rating": 10
+                }
+            ]
+        },
+        {
+            "idx": 375,
+            "id": "masqueradelegion",
+            "title_localized": {
+                "en": "Masquerade Legion"
+            },
+            "artist": "Srav3R & DJ Noriken",
+            "search_title": {
+                "ja": [
+                    "ますかれーどれぎおん"
+                ],
+                "ko": [
+                    "마스커레이드 리전",
+                    "마스커레이드 레기온"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "すれいばー",
+                    "でぃーじぇーのりけん",
+                    "でぃーじぇいのりけん"
+                ],
+                "ko": [
+                    "슬레이버",
+                    "디제이 노리켄"
+                ]
+            },
+            "bpm": "175",
+            "bpm_base": 175,
+            "set": "single",
+            "purchase": "masqueradelegion",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "tanoc_conflict",
+            "bg_inverse": "tanoc_light",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1709856007,
+            "version": "5.4",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Nitro 「The Veiled」",
+                    "jacketDesigner": "KEI",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Nitro 「The Veiled」",
+                    "jacketDesigner": "KEI",
+                    "rating": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Nitro 「The Veiled」",
+                    "jacketDesigner": "KEI",
+                    "rating": 10
+                }
+            ]
+        },
+        {
+            "idx": 376,
+            "id": "kyorenromance",
+            "title_localized": {
+                "en": "KYOREN ROMANCE",
+				"ja": "狂恋ROMANCE"
+            },
+            "artist": "REDALiCE vs DJ Myosuke feat. DELUTAYA",
+            "search_title": {
+                "ja": [
+                    "きょうれんろまんす"
+                ],
+                "ko": [
+                    "쿄렌 로맨스",
+                    "광연 로맨스"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "れっどありす",
+                    "でぃーじぇーみょーすけ",
+                    "でぃーじぇーみょうすけ",
+                    "でぃーじぇいみょーすけ",
+                    "でぃーじぇいみょうすけ",
+                    "でるたや"
+                ],
+                "ko": [
+                    "레드 앨리스",
+                    "디제이 묘스케"
+                ]
+            },
+            "bpm": "205",
+            "bpm_base": 205,
+            "set": "single",
+            "purchase": "kyorenromance",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "saikyostronger",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1709856008,
+            "version": "5.4",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Dec18 + Nitro",
+                    "jacketDesigner": "イカダ",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Dec18 + Nitro",
+                    "jacketDesigner": "イカダ",
+                    "rating": 7,
+                    "ratingPlus": true
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Dec18 + Nitro",
+                    "jacketDesigner": "イカダ",
+                    "rating": 10,
+                    "ratingPlus": true
+                }
+            ]
+        },
+        {
+            "idx": 377,
+            "id": "qovat",
+            "title_localized": {
+                "en": "Qovat"
+            },
+            "artist": "owl＊tree",
+            "search_title": {
+                "ja": [
+                    "こばっと",
+                    "こゔぁっと"
+                ],
+                "ko": [
+                    "쿠오밧",
+                    "쿼밧",
+                    "코밧"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "おうるつりー"
+                ],
+                "ko": [
+                    "아울트리"
+                ]
+            },
+            "bpm": "122",
+            "bpm_base": 122,
+            "set": "single",
+            "purchase": "qovat",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "hime_conflict",
+            "bg_inverse": "hime_light",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1709856009,
+            "version": "5.4",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "ex＊tree",
+                    "jacketDesigner": "Watersnake",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "ex＊tree",
+                    "jacketDesigner": "Watersnake",
+                    "rating": 8
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "ny＊tree",
+                    "jacketDesigner": "Watersnake",
+                    "rating": 10
                 }
             ]
         }
