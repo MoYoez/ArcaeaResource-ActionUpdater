@@ -26,6 +26,6 @@ In China You can try : https://ghproxy.net/raw.githubusercontent.com/MoYoez/Arca
 ## Update Log:
 
 
-* Last Update: 2024-03-21 16:11:22
+* Last Update: 2024-03-22 00:12:46
 
 * Version: 5.4.3c
