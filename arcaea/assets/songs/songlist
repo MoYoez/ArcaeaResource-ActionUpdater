@@ -23633,6 +23633,373 @@
                     "rating": 10
                 }
             ]
+        },
+        {
+            "idx": 378,
+            "id": "hellohell",
+            "title_localized": {
+                "en": "HELLOHELL"
+            },
+            "artist": "暁Records",
+            "search_title": {
+                "ja": [
+                    "はろーへる"
+                ],
+                "ko": [
+                    "헬로헬"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "akatsuki records"
+                ],
+                "ja": [
+                    "あかつきれこーず"
+                ],
+                "ko": [
+                    "아카츠키 레코드"
+                ]
+            },
+            "bpm": "155",
+            "bpm_base": 155,
+            "set": "extend_3",
+            "purchase": "extend_3",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "touhou_conflict",
+            "bg_inverse": "touhou_light",
+            "source_copyright": "©上海アリス幻樂団",
+            "remote_dl": true,
+            "world_unlock": true,
+            "date": 1711324800,
+            "version": "5.5",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "én",
+                    "jacketDesigner": "原之",
+                    "rating": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "én",
+                    "jacketDesigner": "原之",
+                    "rating": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "én",
+                    "jacketDesigner": "原之",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "eién",
+                    "jacketDesigner": "原之",
+                    "rating": 9
+                }
+            ]
+        },
+        {
+            "idx": 379,
+            "id": "ichirin",
+            "title_localized": {
+                "en": "〇、"
+            },
+            "artist": "Kolaa & 熊子",
+            "search_title": {
+                "en": [
+                    "ichirin"
+                ],
+                "ja": [
+                    "いちりん"
+                ],
+                "ko": [
+                    "이치린"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "こーらー",
+                    "くまこ"
+                ],
+                "ko": [
+                    "콜라아"
+                ]
+            },
+            "bpm": "145",
+            "bpm_base": 145,
+            "set": "extend_3",
+            "purchase": "extend_3",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "prelude_light",
+            "bg_inverse": "prelude_conflict",
+            "remote_dl": true,
+            "world_unlock": true,
+            "date": 1711324801,
+            "version": "5.5",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "CERiNG、",
+                    "jacketDesigner": "毛腿猪兔子 & Kolaa",
+                    "rating": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "CERiNG、",
+                    "jacketDesigner": "毛腿猪兔子 & Kolaa",
+                    "rating": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "CERiNG、",
+                    "jacketDesigner": "毛腿猪兔子 & Kolaa",
+                    "rating": 9
+                }
+            ]
+        },
+        {
+            "idx": 380,
+            "id": "awakeninruins",
+            "title_localized": {
+                "en": "Awaken In Ruins"
+            },
+            "artist": "Supa7onyz",
+            "search_title": {
+                "ja": [
+                    "あうぇーくんいんるいんず"
+                ],
+                "ko": [
+                    "어웨이큰 인 루인즈"
+                ]
+            },
+            "bpm": "125",
+            "bpm_base": 125,
+            "set": "extend_3",
+            "purchase": "extend_3",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "prelude_conflict",
+            "bg_inverse": "prelude_light",
+            "remote_dl": true,
+            "world_unlock": true,
+            "source_localized": {
+                "en": "Paradigm: Reboot"
+            },
+            "source_copyright": "© TunerGames",
+            "date": 1711324802,
+            "version": "5.5",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "antymis",
+                    "jacketDesigner": "人間蛋",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "antymis",
+                    "jacketDesigner": "人間蛋",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "antymis",
+                    "jacketDesigner": "人間蛋",
+                    "rating": 9,
+                    "ratingPlus": true
+                }
+            ]
+        },
+        {
+            "idx": 381,
+            "id": "morningloom",
+            "title_localized": {
+                "en": "MORNINGLOOM"
+            },
+            "artist": "saaa",
+            "search_title": {
+                "ja": [
+                    "もーにんぐるーむ"
+                ],
+                "ko": [
+                    "모닝글룸"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "さえさん"
+                ],
+                "ko": [
+                    "사아아아"
+                ]
+            },
+            "bpm": "102",
+            "bpm_base": 204,
+            "set": "extend_3",
+            "purchase": "extend_3",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "rei",
+            "bg_inverse": "yugamu",
+            "remote_dl": true,
+            "world_unlock": true,
+            "date": 1711324803,
+            "version": "5.5",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Exschwasion • 8:00",
+                    "jacketDesigner": "すずあ",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Exschwasion • 8:21",
+                    "jacketDesigner": "すずあ",
+                    "rating": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Exschwasion • 8:45",
+                    "jacketDesigner": "すずあ",
+                    "rating": 8,
+                    "ratingPlus": true
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "Exschwasion • 8:46",
+                    "jacketDesigner": "すずあ",
+                    "rating": 9,
+                    "ratingPlus": true
+                }
+            ]
+        },
+        {
+            "idx": 382,
+            "id": "lethalvoltage",
+            "title_localized": {
+                "en": "Lethal Voltage"
+            },
+            "artist": "siqlo",
+            "search_title": {
+                "ja": [
+                    "りーさるぼるてーじ"
+                ],
+                "ko": [
+                    "리썰 볼티지",
+                    "리썰 볼테이지"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "さいくろ"
+                ],
+                "ko": [
+                    "사이클로"
+                ]
+            },
+            "bpm": "190",
+            "bpm_base": 190,
+            "set": "extend_3",
+            "purchase": "extend_3",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "single2_conflict",
+            "bg_inverse": "single2_light",
+            "remote_dl": true,
+            "world_unlock": true,
+            "date": 1711324804,
+            "version": "5.5",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "moonquay [EMP]",
+                    "jacketDesigner": "mochi’s pizza",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "moonquay [FLASH]",
+                    "jacketDesigner": "mochi’s pizza",
+                    "rating": 7,
+                    "ratingPlus": true
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "moonquay [SHOCK]",
+                    "jacketDesigner": "mochi’s pizza",
+                    "rating": 10
+                }
+            ]
+        },
+        {
+            "idx": 383,
+            "id": "mirinae",
+            "title_localized": {
+                "en": "MIRINAE"
+            },
+            "artist": "TAK × Zekk",
+            "search_title": {
+                "ja": [
+                    "みりね",
+                    "みりねー"
+                ],
+                "ko": [
+                    "미리내"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "たっく",
+                    "ぜっく"
+                ],
+                "ko": [
+                    "탁",
+                    "젝",
+                    "제크"
+                ]
+            },
+            "bpm": "180",
+            "bpm_base": 180,
+            "set": "single",
+            "purchase": "mirinae",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "nijuusei2_light",
+            "bg_inverse": "nijuusei2_conflict",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1711324805,
+            "version": "5.5",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "N↑TRO",
+                    "jacketDesigner": "すずなし",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "N↑TRO",
+                    "jacketDesigner": "すずなし",
+                    "rating": 8
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "N↑TRO",
+                    "jacketDesigner": "すずなし",
+                    "rating": 10
+                }
+            ]
         }
     ]
 }

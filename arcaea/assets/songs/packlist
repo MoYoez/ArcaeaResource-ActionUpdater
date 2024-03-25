@@ -9,14 +9,33 @@
       "small_pack_image": true,
       "plus_character": -1,
       "name_localized": {
-        "en": "Extend Archive"
+        "en": "Extend Archive 1"
       },
       "description_localized": {
-        "en": "A collection of Arcaea's extended history\nacross 20 songs.\n\nThe price of this Pack is adjusted if you \nhave previously obtained the majority\nof songs within it in the past.",
-        "ja": "旧き珠玉の20曲がここに。\n\n期間中の当時に、\n無料解禁を達成した楽曲数に応じて、\n本楽曲パックの値段は変動します。",
-        "ko": "20개의 악곡에 걸쳐 기록된\nArcaea의 긴 역사를 담은 팩입니다.\n\n팩에 포함된 곡 대부분을 과거에 획득했다면\n그에 맞춰 가격이 조정됩니다.",
-        "zh-Hant": "20支曲目，\n講述Arcaea世界的種種過往......\n\n如已擁有大部分收錄曲目，\n該曲包價格將進行適當調整。",
-        "zh-Hans": "20首曲目，\n讲述Arcaea世界的昔日过往......\n\n若已拥有大部分收录曲目，\n该曲包的价格将适当调整。"
+        "en": "The first collection of Arcaea's extended\nhistory across 20 songs.\n\nThe price of this Pack is adjusted if you\nhave previously obtained the majority\nof songs within it in the past.\n",
+        "ja": "ここに聳える、始まりの20曲。\n\n初代World Extendパックです。\nかつて獲得期間中だった時期のあいだ、\n無料解禁を達成した楽曲数に応じて、\n本パックの値段は変動します。",
+        "ko": "Arcaea의 긴 역사를\n20개의 악곡에 담은 첫번째 콜렉션입니다.\n\n해당 팩 내 악곡 보유수에 따라\n가격이 조정됩니다.",
+        "zh-Hant": "20首歌曲，歸檔了屬於Arcaea的\n第一批更廣闊的回憶……\n\n若此前已通過其他方式獲取大部分收錄曲目，\n曲包售價會在結算時自動做出相應調整。",
+        "zh-Hans": "20首歌曲，归档了属于Arcaea的\n第一批更广阔的回忆……\n\n若此前已通过其他方式获取大部分收录曲目，\n曲包售价会在结算时自动做出相应调整。"
+      }
+    },
+    {
+      "id": "extend_2",
+      "section": "archive",
+      "is_extend_pack": true,
+      "is_active_extend_pack": false,
+      "custom_banner": true,
+      "small_pack_image": true,
+      "plus_character": -1,
+      "name_localized": {
+        "en": "Extend Archive 2"
+      },
+      "description_localized": {
+        "en": "The second collection of Arcaea's extended\nhistory across 20 songs.\n\nThe price of this Pack is adjusted if you\nhave previously obtained the majority\nof songs within it in the past.\n",
+        "ja": "ここに系譜を継ぐ、更なる20曲。\n\n2代目のWorld Extendパックです。\nかつて獲得期間中だった時期のあいだ、\n無料解禁を達成した楽曲数に応じて、\n本パックの値段は変動します。",
+        "ko": "Arcaea의 긴 역사를\n20개의 악곡에 담은 두번째 콜렉션입니다.\n\n해당 팩 내 악곡 보유수에 따라\n가격이 조정됩니다.",
+        "zh-Hant": "20首歌曲，歸檔了屬於Arcaea的\n第二批更廣闊的回憶……\n\n若此前已通過其他方式獲取大部分收錄曲目，\n曲包售價會在結算時自動做出相應調整。",
+        "zh-Hans": "20首歌曲，归档了属于Arcaea的\n第二批更广阔的回忆……\n\n若此前已通过其他方式获取大部分收录曲目，\n曲包售价会在结算时自动做出相应调整。"
       }
     },
     {
@@ -34,7 +53,7 @@
       }
     },
     {
-      "id": "extend_2",
+      "id": "extend_3",
       "section": "free",
       "is_extend_pack": true,
       "is_active_extend_pack": true,
@@ -42,14 +61,14 @@
       "cutout_pack_image": true,
       "plus_character": -1,
       "name_localized": {
-        "en": "World Extend"
+        "en": "World Extend 3"
       },
       "description_localized": {
-        "en": "Unlock this pack to obtain\nall \"World Extend\" songs.\n\nFuture songs added to \"World Extend\"\nwill be instantly unlocked at no cost.\nLimited-time maps may still be played\nfor other rewards.",
-        "ja": "本楽曲パックを一括解禁すると、\n『World Extend』の全配信曲が入手できます。\n\n今後の配信楽曲も、一括解禁後は\nすぐに追加課金なしで解禁されます。\nまた、曲以外の報酬を目的に、\n期間限定マップで遊ぶことも可能です。",
-        "ko": "이 팩으로 \"World Extend\" 에 포함될\n모든 곡을 얻을 수 있습니다.\n\n향후 \"World Extend\" 에 추가될\n신곡들은 별도 요금 없이 해금됩니다.\n또한, 구입 후에도 한정 맵을 플레이해\n다른 보상을 얻는 것도 가능합니다.",
-        "zh-Hant": "獲得此曲包後，將立即解鎖所有\n“World Extend”中的曲目。\n\n獲取該曲包后，未來加入此處的曲目\n也將即刻免費解鎖。\n擁有額外獎勵的活動地圖\n在獲得此曲包後仍將正常開放。",
-        "zh-Hans": "获得此曲包后，将立即解锁所有\n“World Extend”中的曲目。\n\n获取该曲包后，未来加入此处的曲目\n也将即刻免费解锁。\n拥有额外奖励的活动地图\n在获得此曲包后仍将正常开放。"
+        "en": "Unlock this pack to obtain all \"World Extend\"\nsongs.\n\nFuture songs added to \"World Extend 3: Illusions\"\nwill be instantly unlocked at no cost. Limited-time\nmaps may still be played for other rewards.",
+        "ja": "本楽曲パックを一括解禁すると、\n『World Extend 3: Illusions』の\n全ての楽曲が入手できます。\n解禁対象は、今後の配信曲すべてです。\n\nまた、楽曲以外の報酬を目的に、\n期間限定マップで遊ぶことも可能です。",
+        "ko": "해당 팩을 구매하면\nWorld Extend 내 악곡이 모두 해금됩니다.\n\n\"World Extend 3: Illusions\"에\n추후 추가될 악곡들도 무료로 해금됩니다.\n한정 맵을 플레이하여\n다른 보상을 얻는 것도 가능합니다.",
+        "zh-Hant": "World Extend中的全部曲目\n將在解鎖該曲包後立即開放。\n\n未來加入「World Extend 3: Illusions」的曲目\n也會立即解鎖，無需再次購買。\n對應曲目的限時地圖仍可遊玩，\n取得進度後可獲得地圖中的其他獎勵。",
+        "zh-Hans": "World Extend中的全部曲目\n将在解锁该曲包后立即开放。\n\n未来加入\"World Extend 3: Illusions\"的曲目\n也会立即解锁，无需再次购买。\n对应曲目的限时地图仍可游玩，\n取得进度后可获得地图中的其他奖励。"
       }
     },
     {
